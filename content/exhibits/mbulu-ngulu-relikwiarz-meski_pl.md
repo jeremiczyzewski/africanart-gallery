@@ -12,14 +12,10 @@ firstPublished: "2025-11-21T11:48:44+0000"
 lastPublished: "2026-05-15T15:49:55+0000"
 metadata: |
   Pochodzenie: Demokratyczna Republika Kongo/ Gabon
-  Lud/grupa etniczna: Kota
+  Lud/ grupa etniczna: Kota
   Materiał: Drewno, miedź
   Technika: Rzeźbiarska
-  Wiek: około 1950 r.
+  Wysokość: 50 cm
 ---
 
-Wolnostojący, rzeźbiony portret przywódcy, zwany lefem.
-Wykonuje się je jako ważne świadectwa dynastycznych linii władzy.
-Podczas ceremonii towarzyszących pogrzebowi wodza i intronizacji jego następcy jego
-lefem jest wystawiany publicznie w celu utrzymania ciągłości społecznej i politycznej, a
-także wzmocnienia wiary w siłę królewskiej władzy przodków.
+Kota używali figurek strażników relikwiarzy (mbulu ngulu) do ochrony i zabezpieczenia szczątków i  kości przodków rodziny (niekiedy były to rzeczy osobiste zmarłego).Artefakty konserwowano w pojemnikach wykonanych z kory lub włókien roślinnych. Mbulu ngulu stał na szczycie tego zawiniątka, przywiązany do niego u podstawy postaci w kształcie rombu. Cały relikwiarz czyli figurka wraz z koszem nosi nazwę Bwiti. Uważa się, że symboliczna forma mbulu ngulu miała na celu wzmocnienie i przekazanie ogromnej mocy relikwiarza. Kota mbulu ngulu są wyjątkowe wśród afrykańskich form rzeźbiarskich dzięki połączeniu drewna i kutego metalu. Lud Kota, liczący około 75 000 mieszkańców, zamieszkuje we wschodniej części Gabonu i Demokratyczną Republikę Konga. Kota to w rzeczywistości kilka grup ludów o wspólnych cechach kulturowych. Chociaż narody te mają wiele wspólnych cech kulturowych, w żadnym wypadku nie są jednorodne. W lasach deszczowych otaczających Kota stosuje się techniki cięcia i wypalania w połączeniu z płodozmianem. Przenoszenie upraw z roku na rok pozwala uniknąć erozji i zubożenia gleby. Głównymi uprawami są banany i maniok. Kota żyją w wioskach składających się z dwóch lub więcej klanów. Klany z kolei składają się z kilku linii lub grup rodzinnych, które wywodzą się od wspólnego  przodka. Jest to ważny punkt związany z ich sztuką, ponieważ podobnie jak Kły, Kota czczą relikty przodków. Kult przodków stanowił rdzeń życia religijnego i społecznego grupy rodzinnej. Po śmierci wodza wtajemniczeni zabierali z ciała zmarłego różne relikwie, które następnie dekorowano metalem i nacierano proszkami o wielu magicznych mocach. Kota wyprodukowali dużą liczbę posągów przodków z
