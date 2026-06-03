@@ -1,9 +1,9 @@
 ---
-title: "Maska"
+title: "Maska twarzowa Lobala"
 lang: pl
 slug: maska
 image: "/uploads/images/aM2PjZ5xUNkB06pr_photo-18.jpg"
-imageAlt: "Maska"
+imageAlt: "Maska twarzowa Lobala"
 pdfUrl: "/uploads/pdfs/aM0f_2GNHVfTPdMV_KRS-3-opis-pelny-do-pobrania.pdf"
 pdfLabel: "Pobierz dokumentację PDF"
 prevSlug: "fetysz-gwozdziowy-2"
