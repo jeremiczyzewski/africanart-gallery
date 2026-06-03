@@ -38,15 +38,13 @@ export default function SliceRenderer({ slices }: { slices: any[] }) {
           if (!p.image?.url) return null;
           return (
             <div key={i} className="max-w-6xl mx-auto px-6 mb-12">
-              <div className="relative aspect-[21/9] w-full">
-                <Image
-                  src={prismicImg(p.image.url)}
-                  alt={p.image.alt || ''}
-                  fill
-                  className="object-cover"
-                  sizes="(max-width:1024px) 100vw, 1100px"
-                />
-              </div>
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img
+                src={prismicImg(p.image.url)}
+                alt={p.image.alt || ''}
+                className="w-full h-auto object-cover aspect-[21/9]"
+                loading="lazy"
+              />
             </div>
           );
         }
@@ -65,13 +63,13 @@ export default function SliceRenderer({ slices }: { slices: any[] }) {
           return (
             <section key={i} className="max-w-5xl mx-auto px-6 py-10 grid md:grid-cols-[1fr,2fr] gap-8 items-start">
               {p.image?.url && (
-                <div className="relative aspect-[3/4] w-full bg-white">
-                  <Image
+                <div className="w-full bg-white">
+                  {/* eslint-disable-next-line @next/next/no-img-element */}
+                  <img
                     src={prismicImg(p.image.url)}
                     alt={p.image.alt || p.title || ''}
-                    fill
-                    className="object-cover"
-                    sizes="(max-width:768px) 100vw, 350px"
+                    className="w-full h-auto object-cover aspect-[3/4]"
+                    loading="lazy"
                   />
                 </div>
               )}
