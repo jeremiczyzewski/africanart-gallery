@@ -1,0 +1,25 @@
+[build]
+  command = "npm run build"
+  publish = ".next"
+
+[build.environment]
+  NODE_VERSION = "20"
+  NEXT_TELEMETRY_DISABLED = "1"
+
+# Plugin Netlify dla Next.js — automatycznie obsluguje SSG, ISR, image optimization.
+# Instalowany automatycznie podczas pierwszego buildu (lub mozna jawnie):
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
+
+# Sveltia CMS pod /admin/ — bez tego Netlify probuje matchowac /admin do Next.js routingu
+[[redirects]]
+  from = "/admin"
+  to = "/admin/index.html"
+  status = 200
+
+# (Po podpieciu domeny) Wymus HTTPS i bez www
+# [[redirects]]
+#   from = "http://africanart.gallery/*"
+#   to = "https://africanart.gallery/:splat"
+#   status = 301
+#   force = true

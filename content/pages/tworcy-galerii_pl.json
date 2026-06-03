@@ -1,0 +1,152 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "text": "Twórcy galerii",
+      "spans": [],
+      "direction": "ltr"
+    }
+  ],
+  "parent": {
+    "link_type": "Document"
+  },
+  "slices": [
+    {
+      "variation": "default",
+      "version": "initial",
+      "items": [],
+      "primary": {
+        "title": "Twórcy galerii",
+        "text": []
+      },
+      "id": "header$7d939d6d-0966-4a18-b1e3-09b9607b012f",
+      "slice_type": "header",
+      "slice_label": null
+    },
+    {
+      "variation": "default",
+      "version": "sktwi1xtmkfgx8626",
+      "items": [],
+      "primary": {
+        "title": "Dr Dariusz Skonieczko",
+        "text": [
+          {
+            "type": "paragraph",
+            "text": "Opiekun zbiorów Galerii Sztuki Afrykańskiej. Historyk sztuki, ukończył studia magisterskie na Wydziale Historii Sztuki Uniwersytetu Łódzkiego, broniąc w 2008 roku pracę pt. „Współczesna rzeźba kamienna z Zimbabwe”.",
+            "spans": [],
+            "direction": "ltr"
+          },
+          {
+            "type": "paragraph",
+            "text": "Jest kuratorem wystaw i autorem scenariusza ekspozycji stałej „Afrykańskie wyprawy. Azjatyckie drogi”, a także wielu wystaw czasowych poświęconych sztuce pozaeuropejskiej. Publikuje w czasopismach naukowych, w tym znajdujących się w wykazie MNiSW. Współautor książki „Stefan Szolc Rogoziński – Zapomniany odkrywca Afryki”, komiksu „Rejs ku przygodzie” oraz filmów dokumentalnych: „Królowie, palawary i zapomniany odkrywca” (2016), „Wyprawa” (2016), „Powrót wędrowca” (2023).",
+            "spans": [],
+            "direction": "ltr"
+          },
+          {
+            "type": "paragraph",
+            "text": "Uczestniczył w wyprawach naukowych do Zimbabwe, Demokratycznej Republiki Konga, Wybrzeża Kości Słoniowej, Gabonu, Nigerii, Gwinei Równikowej i Liberii. Wyprawa do Zimbabwe i DRK w 2008 roku odbyła się pod patronatem MAiE. Z wypraw tych przywiózł liczne eksponaty, które wzbogaciły kolekcje PME oraz MAiE.",
+            "spans": [],
+            "direction": "ltr"
+          },
+          {
+            "type": "paragraph",
+            "text": "W 2016 roku został wyróżniony tytułem Doradcy i Dostojnika Królewskiego Dworu Mondoli przez króla ludu Mondoli (Kamerun), dra Ekoke Molindo.",
+            "spans": [],
+            "direction": "ltr"
+          }
+        ],
+        "image": {}
+      },
+      "id": "text_with_image$3aa078d5-a3fb-4c21-a872-aeaf6bddeaa9",
+      "slice_type": "text_with_image",
+      "slice_label": null
+    },
+    {
+      "variation": "default",
+      "version": "sktwi1xtmkfgx8626",
+      "items": [],
+      "primary": {
+        "title": "Diana Kułakowska",
+        "text": [
+          {
+            "type": "paragraph",
+            "text": "Konserwatorka malarstwa i rzeźby drewnianej, absolwentka Wydziału Konserwacji i Restauracji Dzieł Sztuki ASP w Warszawie (dyplom w roku 2017), gdzie obecnie pracuje jako asystentka w Katedrze Konserwacji Malarstwa na Podłożach Ruchomych i Rzeźby Drewnianej Polichromowanej. ",
+            "spans": [],
+            "direction": "ltr"
+          },
+          {
+            "type": "paragraph",
+            "text": "W swojej pracy zawodowej zajmuje się zarówno malarstwem sztalugowym - dawnym i współczesnym – jak i sztuką zachodnioafrykańską. Jako pracowniczka Akademii uczestniczyła w projekcie naukowo-konserwatorskim w północnym Libanie, poświęconym ochronie średniowiecznych malowideł ściennych z czasów wypraw krzyżowych oraz w pracach konserwatorskich przy antycznych malowidłach w willi Arianna w jednym z miast Wezuwiusza - Stabiach. Prowadzi również prywatną firmę konserwatorską, jednak bardziej niż we współzawodnictwo i konkurencję wierzy we współpracę i w przyjaźń.",
+            "spans": [],
+            "direction": "ltr"
+          },
+          {
+            "type": "paragraph",
+            "text": "W konserwacji najbardziej pociąga ją prowadzenie śledztw i pogłębionych obserwacji, polegające na zadawaniu niezliczonych pytań i uporczywym poszukiwaniu na nie odpowiedzi. Jest przekonana, że dzieła sztuki, podobnie jak ludzie, zawsze mają do opowiedzenia ciekawą historię, trzeba tylko zadawać właściwe pytania i uważnie szukać odpowiedzi. Zdaniem, które towarzyszy jej w codziennych zmaganiach zawodowych jest „Widzimy tylko to, co wiemy”. To z niego czerpie energię i zapał do ciągłego poszerzania swojej wiedzy, a wraz z nią – pola widzenia i rozumienia świata.",
+            "spans": [],
+            "direction": "ltr"
+          }
+        ],
+        "image": {}
+      },
+      "id": "text_with_image$95347e14-9c43-4411-9522-a92ed7b033d0",
+      "slice_type": "text_with_image",
+      "slice_label": null
+    },
+    {
+      "variation": "default",
+      "version": "sktwi1xtmkfgx8626",
+      "items": [],
+      "primary": {
+        "title": "Jeremi Czyżewski",
+        "text": [
+          {
+            "type": "paragraph",
+            "text": "Reżyser, realizator, scenarzysta i montażysta filmowy. Współproducent i reżyser cyklu filmów dokumentalnych o tematyce ukraińskiej; „Kawaler Księżyca” 2003, „Książę wina” 2004, „Czerwone i czarne” 2005. Współtwórca kampanii reklamowych oraz koncepcji artystycznych marek wchodzących na polski rynek, m.in. Canal+ i Smirnoff. Współautor cyklu filmów promocyjnych dla Biblioteki Narodowej i Centrum Nauki Kopernik. Współpracuje z największymi stacjami telewizyjnymi w Polsce – TVN, Polsat, TVP, TV4 i TV6 – oraz z wieloma agencjami reklamowymi. Publikował artykuły w magazynach Machina, Plastic i Sukces. Fotograf i edytor zdjęć.",
+            "spans": [],
+            "direction": "ltr"
+          },
+          {
+            "type": "paragraph",
+            "text": "W latach 90. organizował wydarzenia artystyczne, m.in. w legendarnej Galerii Krzysztofory w Krakowie oraz w Blue Velvet na warszawskiej ASP. Twórca projekcji wideo dla Teatru Współczesnego, Nowego Teatru i Muzeum Powstania Warszawskiego, a także autor opraw wizualnych do licznych spektakli teatralnych w reżyserii Marcina Libera.",
+            "spans": [],
+            "direction": "ltr"
+          }
+        ],
+        "image": {}
+      },
+      "id": "text_with_image$20d39cc6-0236-4033-87bc-c977fc30e007",
+      "slice_type": "text_with_image",
+      "slice_label": null
+    },
+    {
+      "variation": "default",
+      "version": "sktwi1xtmkfgx8626",
+      "items": [],
+      "primary": {
+        "title": "Maciej Romanov",
+        "text": [
+          {
+            "type": "paragraph",
+            "text": "Twórca instalacji przestrzennych, projektant i reżyser działań artystycznych. Pracuje w różnych technikach i materiałach — od metalu, gliny i tkanin, po światło, dźwięk i assemblage — tworząc instalacje, które wchodzą w dialog z przestrzenią, materią i odbiorcą. Jego realizacje to często wielowarstwowe struktury, inspirowane spotkaniem kultur i kontrastem form. ",
+            "spans": [],
+            "direction": "ltr"
+          },
+          {
+            "type": "paragraph",
+            "text": "Zajmuje się również budowaniem tożsamości wizualnej i emocjonalnej marek, tworząc spójne narracje wizualne (brand feeling). Równolegle projektuje autorską odzież męską, kostiumy sceniczne oraz formy z pogranicza mody i performansu. Jako reżyser artystyczny współtworzy sesje zdjęciowe, pokazy mody, wernisaże i wydarzenia performatywne. Łączy sztukę, design i narrację w konsekwentny, autorski język wizualny.",
+            "spans": [],
+            "direction": "ltr"
+          }
+        ],
+        "image": {}
+      },
+      "id": "text_with_image$c129fd8f-59f8-45bb-9d79-516e3ee5aa07",
+      "slice_type": "text_with_image",
+      "slice_label": null
+    }
+  ],
+  "meta_title": null,
+  "meta_description": null,
+  "meta_image": {}
+}

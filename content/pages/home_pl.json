@@ -1,0 +1,131 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "text": "African Art Gallery",
+      "spans": [],
+      "direction": "ltr"
+    }
+  ],
+  "parent": {
+    "link_type": "Document"
+  },
+  "slices": [
+    {
+      "variation": "default",
+      "version": "sktwi1xtmkfgx8626",
+      "items": [],
+      "primary": {
+        "title": "Maski opowiadają\nszeptem",
+        "text": null,
+        "buttonLink": {
+          "id": "aSCOGxEAACUAAJT5",
+          "type": "page",
+          "tags": [],
+          "lang": "pl",
+          "slug": "gallery",
+          "first_publication_date": "2025-11-21T16:07:01+0000",
+          "last_publication_date": "2026-05-15T14:28:24+0000",
+          "uid": "gallery",
+          "link_type": "Document",
+          "key": "c52af2a0-ae27-40dd-ba96-71b925d8d68d",
+          "isBroken": false,
+          "text": "Zobacz więcej"
+        },
+        "backgroundImage": {
+          "dimensions": {
+            "width": 2360,
+            "height": 1272
+          },
+          "alt": "Maski opowiadają szeptem",
+          "copyright": null,
+          "url": "https://images.prismic.io/african-art-gallery/aQiGDbpReVYa38XF_slider-1.jpg?auto=format,compress",
+          "id": "aQiGDbpReVYa38XF",
+          "edit": {
+            "x": 0,
+            "y": 0,
+            "zoom": 1,
+            "background": "transparent"
+          }
+        },
+        "photos": [
+          {
+            "image": {
+              "dimensions": {
+                "width": 2360,
+                "height": 1272
+              },
+              "alt": "Maski opowiadają szeptem",
+              "copyright": null,
+              "url": "https://images.prismic.io/african-art-gallery/aQiGDbpReVYa38XF_slider-1.jpg?auto=format,compress",
+              "id": "aQiGDbpReVYa38XF",
+              "edit": {
+                "x": 0,
+                "y": 0,
+                "zoom": 1,
+                "background": "transparent"
+              }
+            }
+          },
+          {
+            "image": {
+              "dimensions": {
+                "width": 2360,
+                "height": 1272
+              },
+              "alt": "Maski opowiadają szeptem",
+              "copyright": null,
+              "url": "https://images.prismic.io/african-art-gallery/aghsr6YofJOwHSvB_slider-4.jpg?auto=format,compress",
+              "id": "aghsr6YofJOwHSvB",
+              "edit": {
+                "x": 0,
+                "y": 0,
+                "zoom": 1,
+                "background": "transparent"
+              }
+            }
+          },
+          {
+            "image": {
+              "dimensions": {
+                "width": 2360,
+                "height": 1272
+              },
+              "alt": "African Art Gallery",
+              "copyright": null,
+              "url": "https://images.prismic.io/african-art-gallery/aReN77pReVYa4gPa_slider-3.jpg?auto=format,compress",
+              "id": "aReN77pReVYa4gPa",
+              "edit": {
+                "x": 0,
+                "y": 0,
+                "zoom": 1,
+                "background": "transparent"
+              }
+            }
+          }
+        ]
+      },
+      "id": "hero$17968622-15fd-4d8e-9ff5-9098bd019989",
+      "slice_type": "hero",
+      "slice_label": null
+    }
+  ],
+  "meta_title": "African Art Gallery",
+  "meta_description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede asdf.",
+  "meta_image": {
+    "dimensions": {
+      "width": 2400,
+      "height": 1260
+    },
+    "alt": null,
+    "copyright": null,
+    "url": "https://images.prismic.io/marketing-24/ZkdcuSol0Zci9PlS_subway.jpg?auto=format%2Ccompress&rect=0%2C442%2C5415%2C2843&w=2400&h=1260",
+    "id": "ZkdcuSol0Zci9PlS",
+    "edit": {
+      "x": 0,
+      "y": 442,
+      "zoom": 1,
+      "background": "transparent"
+    }
+  }
+}

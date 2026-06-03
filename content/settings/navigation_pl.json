@@ -1,0 +1,73 @@
+{
+  "links": [
+    {
+      "label": [
+        {
+          "type": "heading3",
+          "text": "O Galerii",
+          "spans": [],
+          "direction": "ltr"
+        }
+      ],
+      "link": {
+        "id": "aSBfMxEAACUAADBR",
+        "type": "page",
+        "tags": [],
+        "lang": "pl",
+        "slug": "o-galerii",
+        "first_publication_date": "2025-11-21T12:52:28+0000",
+        "last_publication_date": "2026-04-20T17:42:13+0000",
+        "uid": "o-galerii",
+        "link_type": "Document",
+        "key": "365616e6-5810-4992-929d-4596dd5f3c30",
+        "isBroken": false
+      }
+    },
+    {
+      "label": [
+        {
+          "type": "heading3",
+          "text": "Twórcy galerii",
+          "spans": [],
+          "direction": "ltr"
+        }
+      ],
+      "link": {
+        "id": "aSCN9BEAACYAAJSL",
+        "type": "page",
+        "tags": [],
+        "lang": "pl",
+        "slug": "tworcy-galerii",
+        "first_publication_date": "2025-11-21T16:06:39+0000",
+        "last_publication_date": "2026-04-20T17:38:31+0000",
+        "uid": "tworcy-galerii",
+        "link_type": "Document",
+        "key": "e45e6315-87a5-431b-9ab0-c2a3168d2330",
+        "isBroken": false
+      }
+    },
+    {
+      "label": [
+        {
+          "type": "heading3",
+          "text": "Kontakt",
+          "spans": [],
+          "direction": "ltr"
+        }
+      ],
+      "link": {
+        "id": "aSGXexEAACUAAk6G",
+        "type": "page",
+        "tags": [],
+        "lang": "pl",
+        "slug": "kontakt",
+        "first_publication_date": "2025-11-22T10:59:16+0000",
+        "last_publication_date": "2025-11-22T10:59:16+0000",
+        "uid": "kontakt",
+        "link_type": "Document",
+        "key": "22b0f1cf-afd0-4663-b8af-15da9947b976",
+        "isBroken": false
+      }
+    }
+  ]
+}

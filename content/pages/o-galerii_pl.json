@@ -1,0 +1,115 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "text": "O galerii",
+      "spans": [],
+      "direction": "ltr"
+    }
+  ],
+  "parent": {
+    "link_type": "Document"
+  },
+  "slices": [
+    {
+      "variation": "default",
+      "version": "initial",
+      "items": [],
+      "primary": {
+        "title": "O galerii",
+        "text": []
+      },
+      "id": "header$de5d9637-2777-4833-ae14-ec7a39be6f80",
+      "slice_type": "header",
+      "slice_label": null
+    },
+    {
+      "variation": "banner",
+      "version": "sktwi1xtmkfgx8626",
+      "items": [
+        {}
+      ],
+      "primary": {
+        "image": {
+          "dimensions": {
+            "width": 2360,
+            "height": 900
+          },
+          "alt": "African Art Gallery",
+          "copyright": null,
+          "url": "https://images.prismic.io/african-art-gallery/aReN77pReVYa4gPa_slider-3.jpg?auto=format%2Ccompress&rect=0%2C186%2C2360%2C900&w=2360&h=900",
+          "id": "aReN77pReVYa4gPa",
+          "edit": {
+            "x": 0,
+            "y": 186,
+            "zoom": 1,
+            "background": "transparent"
+          }
+        }
+      },
+      "id": "image$03e44ab7-bc91-4a88-85ca-064e033e20fd",
+      "slice_type": "image",
+      "slice_label": null
+    },
+    {
+      "variation": "oneColumnCentered",
+      "version": "sktwi1xtmkfgx8626",
+      "items": [],
+      "primary": {
+        "text": [
+          {
+            "type": "heading1",
+            "text": "African Art Gallery",
+            "spans": [],
+            "direction": "ltr"
+          },
+          {
+            "type": "paragraph",
+            "text": "African Art Gallery to przestrzeń stworzona z pasji, wiedzy i głębokiego szacunku do dziedzictwa kulturowego Afryki. Jest to jedna z najciekawszych prywatnych kolekcji sztuki afrykańskiej w Polsce.",
+            "spans": [],
+            "direction": "ltr"
+          },
+          {
+            "type": "paragraph",
+            "text": "Zbiory obejmują obecnie ponad 240 starannie wyselekcjonowanych obiektów pochodzących głównie z Afryki Zachodniej i Centralnej. Każdy z nich został pozyskany z dbałością o proweniencję i walory estetyczne, przy jednoczesnym uwzględnieniu stanu zachowania oraz potencjału badawczego. Wśród eksponatów znajdują się unikatowe rzeźby, maski oraz artefakty rytualne.",
+            "spans": [],
+            "direction": "ltr"
+          },
+          {
+            "type": "paragraph",
+            "text": "Wyjątkowość galerii tkwi nie tylko w różnorodności zbiorów, lecz także w ich skrupulatnej dokumentacji. Każdy przedmiot posiada kartę inwentarzową, udokumentowane pochodzenie oraz atrybucję, często weryfikowaną podczas badań terenowych. Wszystkie obiekty zostały profesjonalnie opisane, sfotografowane i poddane konserwacji. Kolekcja znajduje się pod stałą opieką wybitnych historyków sztuki oraz doświadczonych muzealników, co gwarantuje najwyższy standard merytoryczny i etyczny.",
+            "spans": [],
+            "direction": "ltr"
+          },
+          {
+            "type": "paragraph",
+            "text": "African Art Gallery to coś więcej niż kolekcja – to żywe świadectwo historii, kultury i duchowości. Przestrzeń ta inspiruje, edukuje i skłania do refleksji nad znaczeniem sztuki afrykańskiej w kontekście uniwersalnych wartości.",
+            "spans": [],
+            "direction": "ltr"
+          }
+        ]
+      },
+      "id": "text$32ecacba-a92a-4310-897f-f74a8bdf9d09",
+      "slice_type": "text",
+      "slice_label": null
+    }
+  ],
+  "meta_title": "About",
+  "meta_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sagittis eu hac volutpat velit donec scelerisque. Vel pellentesque tellus facilisis integer blandit porttitor posuere aliquam amet.",
+  "meta_image": {
+    "dimensions": {
+      "width": 2400,
+      "height": 1260
+    },
+    "alt": null,
+    "copyright": null,
+    "url": "https://images.prismic.io/marketing-24/ZkdcuCol0Zci9PlQ_waves.jpg?auto=format%2Ccompress&rect=0%2C481%2C4096%2C2150&w=2400&h=1260",
+    "id": "ZkdcuCol0Zci9PlQ",
+    "edit": {
+      "x": 0,
+      "y": 481,
+      "zoom": 1,
+      "background": "transparent"
+    }
+  }
+}

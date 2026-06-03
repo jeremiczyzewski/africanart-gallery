@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --aag-beige: #f5f1e8;
+  --aag-black: #1a1a1a;
+}
+
+html, body {
+  background: var(--aag-beige);
+  color: var(--aag-black);
+  font-family: var(--font-sans), system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, .serif {
+  font-family: var(--font-serif), Georgia, serif;
+}
+
+.nav-link {
+  @apply text-aag-black uppercase text-sm tracking-wider hover:opacity-60 transition-opacity;
+}
+
+.btn-outline {
+  @apply inline-block border border-aag-black px-8 py-3 text-sm uppercase tracking-wider hover:bg-aag-black hover:text-aag-beige transition-colors;
+}

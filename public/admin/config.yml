@@ -1,0 +1,199 @@
+# Sveltia CMS — konfiguracja panelu dla African Art Gallery
+# Edytor zywy w przegladarce, kazda zmiana = commit do Git + auto-deploy Netlify.
+# Login przez GitHub OAuth (raz, potem zapamietuje).
+
+backend:
+  name: github
+  repo: YOUR_GITHUB_USERNAME/africanart-gallery  # <-- WYMAGANE: zmienic po utworzeniu repo
+  branch: main
+  # Po deploy na Netlify aktywuj Netlify Identity + OAuth provider (GitHub).
+  # Alternatywa: backend: git-gateway (jesli klient nie ma konta GitHub).
+
+# Adres witryny - link "View site" w panelu
+site_url: https://african-art-gallery.netlify.app
+display_url: https://african-art-gallery.netlify.app
+logo_url: /assets/logo.svg
+
+# Edytor zaaplikowany tylko do trybu w przegladarce; commits ida jak normalny user
+publish_mode: simple
+
+# Wszystkie media (zdjecia, PDFy) zapisywane sa do:
+media_folder: "public/uploads"
+public_folder: "/uploads"
+
+# Jezyki - master polski + EN
+i18n:
+  structure: multiple_files
+  locales:
+    - pl
+    - en-us
+  default_locale: pl
+
+# ============================================================
+# KOLEKCJE — to co laik bedzie widzial po lewej w panelu
+# ============================================================
+collections:
+  # ---------- EKSPONATY (21 dzisiaj, docelowo 240) ----------
+  - name: "exhibits"
+    label: "Eksponaty"
+    label_singular: "Eksponat"
+    description: "Wszystkie obiekty kolekcji — masz tu peln liste 240 eksponatow."
+    folder: "content/exhibits"
+    extension: md
+    format: yaml-frontmatter
+    create: true
+    delete: true
+    # Plik: <slug>_<lang>.md — Sveltia obsluguje i18n po nazwie
+    slug: "{{fields.slug}}"
+    summary: "{{title}} — {{slug}}"
+    preview_path: "gallery/{{fields.slug}}"
+    i18n: true
+    fields:
+      - { label: "Tytul eksponatu", name: "title", widget: "string", i18n: true, hint: "Np. Lefem, Maska Dan, Kogut Okukur" }
+      - { label: "Slug URL (bez polskich znakow, mysliniki zamiast spacji)", name: "slug", widget: "string", i18n: duplicate, hint: "Np. maska-dan, lefem, kogut-okukur" }
+      - { label: "Zdjecie glowne", name: "image", widget: "image", i18n: duplicate, hint: "Najlepsza rozdzielczosc: min 1500px dluzszy bok" }
+      - { label: "Opis alternatywny zdjecia (dla niewidomych)", name: "imageAlt", widget: "string", i18n: true, required: false }
+      - { label: "Dokument PDF (opcjonalnie)", name: "pdfUrl", widget: "file", i18n: duplicate, required: false, hint: "Karta inwentarzowa, ekspertyza, dokumentacja" }
+      - { label: "Etykieta przycisku PDF", name: "pdfLabel", widget: "string", default: "Pobierz dokumentacje PDF", i18n: true, required: false }
+      - { label: "Slug poprzedniego eksponatu (nawigacja)", name: "prevSlug", widget: "string", i18n: duplicate, required: false }
+      - { label: "Slug nastepnego eksponatu (nawigacja)", name: "nextSlug", widget: "string", i18n: duplicate, required: false }
+      - label: "Metadane (kazda linia = jedna informacja)"
+        name: "metadata"
+        widget: "text"
+        i18n: true
+        hint: "Format: Pochodzenie: ... / Lud: ... / Material: ... / Technika: ... / Wiek: ..."
+        default: |
+          Pochodzenie:
+          Lud/ grupa etniczna:
+          Material:
+          Technika:
+          Wiek:
+      - { label: "Opis eksponatu (akapit)", name: "body", widget: "markdown", i18n: true, required: false, hint: "Pelny opis, znaczenie kulturowe, kontekst historyczny" }
+
+  # ---------- STOPKA ----------
+  - name: "settings"
+    label: "Ustawienia witryny"
+    description: "Stopka, menu, social media — rzadko sie zmienia, ale tu mozesz wszystko poprawic."
+    files:
+      - file: "content/settings/footer_pl.json"
+        name: "footer"
+        label: "Stopka — Polski"
+        fields:
+          - label: "Slices"
+            name: "slices"
+            widget: "list"
+            collapsed: false
+            fields:
+              - { label: "Wariant", name: "variation", widget: "hidden", default: "default" }
+              - { label: "Wersja", name: "version", widget: "hidden", default: "initial" }
+              - { label: "Items (puste)", name: "items", widget: "hidden", default: [] }
+              - label: "Zawartosc"
+                name: "primary"
+                widget: "object"
+                fields:
+                  - label: "Telefon"
+                    name: "phone"
+                    widget: "list"
+                    fields:
+                      - { label: "Naglowek", name: "title", widget: "string" }
+                      - { label: "Numer", name: "text", widget: "string" }
+                  - label: "Email"
+                    name: "email"
+                    widget: "list"
+                    fields:
+                      - { label: "Naglowek", name: "title", widget: "string" }
+                      - { label: "Adres email", name: "text", widget: "string" }
+                  - label: "Adres"
+                    name: "address"
+                    widget: "list"
+                    fields:
+                      - { label: "Naglowek", name: "title", widget: "string" }
+                      - { label: "Ulica", name: "address1", widget: "string" }
+                      - { label: "Kod + miasto", name: "address2", widget: "string" }
+                  - label: "Social media"
+                    name: "socialMedia"
+                    widget: "list"
+                    fields:
+                      - { label: "Naglowek", name: "title", widget: "string" }
+                      - label: "Linki"
+                        name: "link"
+                        widget: "list"
+                        fields:
+                          - { label: "Etykieta", name: "text", widget: "string" }
+                          - { label: "URL", name: "url", widget: "string" }
+                          - { label: "Target", name: "target", widget: "select", options: ["_blank","_self"], default: "_blank" }
+                          - { label: "Link type", name: "link_type", widget: "hidden", default: "Web" }
+                          - { label: "Key", name: "key", widget: "hidden", default: "" }
+                  - label: "Godziny otwarcia"
+                    name: "openingHours"
+                    widget: "list"
+                    fields:
+                      - { label: "Naglowek", name: "title", widget: "string" }
+                      - { label: "Linia 1", name: "hours1", widget: "string" }
+                      - { label: "Linia 2", name: "hours2", widget: "string" }
+              - { label: "ID", name: "id", widget: "hidden", default: "footer_default" }
+              - { label: "Typ slice", name: "slice_type", widget: "hidden", default: "footer" }
+              - { label: "Etykieta slice", name: "slice_label", widget: "hidden", default: null }
+
+      - file: "content/settings/navigation_pl.json"
+        name: "navigation"
+        label: "Menu nawigacji"
+        fields:
+          - label: "Linki menu"
+            name: "links"
+            widget: "list"
+            fields:
+              - label: "Etykieta linku"
+                name: "label"
+                widget: "list"
+                fields:
+                  - { label: "Typ", name: "type", widget: "hidden", default: "heading3" }
+                  - { label: "Tekst", name: "text", widget: "string" }
+                  - { label: "Spans", name: "spans", widget: "hidden", default: [] }
+                  - { label: "Direction", name: "direction", widget: "hidden", default: "ltr" }
+              - label: "Cel linku"
+                name: "link"
+                widget: "object"
+                fields:
+                  - { label: "Slug docelowy (np. o-galerii)", name: "uid", widget: "string" }
+                  - { label: "ID", name: "id", widget: "hidden", default: "" }
+                  - { label: "Typ", name: "type", widget: "hidden", default: "page" }
+                  - { label: "Tags", name: "tags", widget: "hidden", default: [] }
+                  - { label: "Lang", name: "lang", widget: "hidden", default: "pl" }
+                  - { label: "Slug duplicate", name: "slug", widget: "hidden", default: "" }
+                  - { label: "Link type", name: "link_type", widget: "hidden", default: "Document" }
+                  - { label: "Key", name: "key", widget: "hidden", default: "" }
+                  - { label: "Is broken", name: "isBroken", widget: "boolean", default: false }
+                  - { label: "First published", name: "first_publication_date", widget: "hidden", default: "" }
+                  - { label: "Last published", name: "last_publication_date", widget: "hidden", default: "" }
+
+      - file: "content/settings/social_media_navigation_pl.json"
+        name: "social"
+        label: "Ikony social media"
+        fields:
+          - label: "Ikony"
+            name: "navigation_item"
+            widget: "list"
+            fields:
+              - { label: "Nazwa (Facebook/Instagram/Youtube)", name: "label", widget: "string" }
+              - label: "Ikona SVG"
+                name: "icon"
+                widget: "object"
+                fields:
+                  - { label: "URL", name: "url", widget: "string" }
+                  - { label: "Alt", name: "alt", widget: "string" }
+                  - { label: "Width", name: "dimensions", widget: "object", fields: [
+                      { label: "Width", name: "width", widget: "number" },
+                      { label: "Height", name: "height", widget: "number" }
+                    ] }
+                  - { label: "Copyright", name: "copyright", widget: "hidden", default: null }
+                  - { label: "ID", name: "id", widget: "hidden", default: "" }
+                  - { label: "Edit", name: "edit", widget: "hidden", default: { x: 0, y: 0, zoom: 1, background: "transparent" } }
+              - label: "Link"
+                name: "link"
+                widget: "object"
+                fields:
+                  - { label: "URL", name: "url", widget: "string" }
+                  - { label: "Target", name: "target", widget: "select", options: ["_blank","_self"], default: "_blank" }
+                  - { label: "Link type", name: "link_type", widget: "hidden", default: "Web" }
+                  - { label: "Key", name: "key", widget: "hidden", default: "" }

@@ -1,0 +1,79 @@
+{
+  "navigation_item": [
+    {
+      "label": "Facebook",
+      "icon": {
+        "dimensions": {
+          "width": 9,
+          "height": 18
+        },
+        "alt": "Ikonka facebooka",
+        "copyright": null,
+        "url": "https://african-art-gallery.cdn.prismic.io/african-art-gallery/aDmcuydWJ-7kSvBH_facebook-icon.svg",
+        "id": "aDmcuydWJ-7kSvBH",
+        "edit": {
+          "x": 0,
+          "y": 0,
+          "zoom": 1,
+          "background": "transparent"
+        }
+      },
+      "link": {
+        "link_type": "Web",
+        "key": "b304b35a-ecae-469e-a4e5-5e1a9d179481",
+        "url": "https://www.facebook.com/africangalleryart",
+        "target": "_blank"
+      }
+    },
+    {
+      "label": "Instagram",
+      "icon": {
+        "dimensions": {
+          "width": 18,
+          "height": 18
+        },
+        "alt": "Ikonka instagrama",
+        "copyright": null,
+        "url": "https://african-art-gallery.cdn.prismic.io/african-art-gallery/aDmc8idWJ-7kSvBm_instagram-icon.svg",
+        "id": "aDmc8idWJ-7kSvBm",
+        "edit": {
+          "x": 0,
+          "y": 0,
+          "zoom": 1,
+          "background": "transparent"
+        }
+      },
+      "link": {
+        "link_type": "Web",
+        "key": "2e88097b-3c55-40a9-b7b0-c031527fa61f",
+        "url": "https://www.instagram.com/african.art_gallery?igsh=MjFzNjgzYmJwNWFj",
+        "target": "_blank"
+      }
+    },
+    {
+      "label": "Youtube",
+      "icon": {
+        "dimensions": {
+          "width": 20,
+          "height": 15
+        },
+        "alt": "Ikonka Youtuba",
+        "copyright": null,
+        "url": "https://african-art-gallery.cdn.prismic.io/african-art-gallery/aDmdHydWJ-7kSvCS_youtube-icon.svg",
+        "id": "aDmdHydWJ-7kSvCS",
+        "edit": {
+          "x": 0,
+          "y": 0,
+          "zoom": 1,
+          "background": "transparent"
+        }
+      },
+      "link": {
+        "link_type": "Web",
+        "key": "41758898-a795-4699-8e08-10142569f118",
+        "url": "https://www.youtube.com/@TheAfricanArtGallery",
+        "target": "_blank"
+      }
+    }
+  ]
+}
