@@ -11,11 +11,17 @@ nextSlug: "lefem"
 firstPublished: "2025-11-21T11:21:48+0000"
 lastPublished: "2026-05-16T09:53:20+0000"
 metadata: |
-  Lud/grupa etniczna:
+  Pochodzenie: Afryka Centralna (prawdopodobnie dorzecze Konga)
+  Lud/ grupa etniczna: do weryfikacji
+  Materiał: Włókna roślinne, muszelki kauri (cowries), paciorki szklane, tkanina, skóra
+  Technika: Plecionkarska, koraliczna, aplikacja
+  Wiek: 1. połowa XX w.
 ---
 
-Wolnostojący, rzeźbiony portret przywódcy, zwany lefem.
-Wykonuje się je jako ważne świadectwa dynastycznych linii władzy.
-Podczas ceremonii towarzyszących pogrzebowi wodza i intronizacji jego następcy jego
-lefem jest wystawiany publicznie w celu utrzymania ciągłości społecznej i politycznej, a
-także wzmocnienia wiary w siłę królewskiej władzy przodków.
+Ceremonialna pochwa na miecz lub krótki nóż prestiżowy, wykonana w technice plecionki włókien roślinnych z bogatym wykończeniem z muszelek kauri (cowries), szklanych paciorków oraz aplikacji tekstylnych w żywych barwach (czerwień, ochra, czerń). Forma trójdzielna: prostokątna „głowa” z aplikacją figuralną, środkowy korpus o regularnym wzorze geometrycznym oraz dolna frędzla z plecionych warkoczy zwieńczonych kauri.
+
+Tego rodzaju obiekty pełniły funkcję insygnium władzy lub statusu — noszone w pasie lub zawieszane na ramieniu podczas durbarów, ceremonii inicjacyjnych i pogrzebów dygnitarzy. Muszle kauri, dawne medium wymiany w głębi Afryki, łączyły wartość ekonomiczną z symboliką żeńskiej płodności i ochrony przed urokami. Geometryczne triangle wpisane w pole środkowe są często odczytywane jako schematyczne przedstawienia kobiecego łona oraz oka.
+
+**Konieczna identyfikacja regionalna** — analogie wskazują na tradycje Yaka, Suku, Lulua lub Pende (dorzecze Kasai/Kwango).
+
+*[SZKIC — opis wstępny, sporządzony na podstawie analizy wizualnej obiektu i jego ogólnego kontekstu kulturowego. Wymaga weryfikacji przez eksperta sztuki afrykańskiej; pełna karta katalogowa zostanie sporządzona w odrębnej dokumentacji KRS.]*

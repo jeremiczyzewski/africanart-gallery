@@ -11,15 +11,15 @@ nextSlug: "miecz"
 firstPublished: "2025-11-21T11:37:28+0000"
 lastPublished: "2025-11-21T11:37:28+0000"
 metadata: |
-  Pochodzenie: Demokratyczna Republika Kongo, Region Sud Ubangi, wioska Enyele
+  Pochodzenie: Demokratyczna Republika Konga, region Sud Ubangi, wioska Enyele
   Lud/ grupa etniczna: Lobala
-  Materiał: Drewno
-  Technika: Rzeźbiarska
+  Materiał: Drewno, kaolin, pigmenty
+  Technika: Rzeźbiarska, polichromia
   Wiek: przed 1950 r.
 ---
 
-Wolnostojący, rzeźbiony portret przywódcy, zwany lefem.
-Wykonuje się je jako ważne świadectwa dynastycznych linii władzy.
-Podczas ceremonii towarzyszących pogrzebowi wodza i intronizacji jego następcy jego
-lefem jest wystawiany publicznie w celu utrzymania ciągłości społecznej i politycznej, a
-także wzmocnienia wiary w siłę królewskiej władzy przodków.
+Owalna maska twarzowa ludu Lobala o silnie ekspresyjnej formie. Dominującym elementem są wielkie, koncentryczne okręgi otaczające otwory oczu — motyw określany w literaturze jako „oczy żaby” lub „oczy ducha” — wspólny dla wielu tradycji dorzecza Ubangi (Ngbandi, Ngbaka, Lobala). Wyniosły, ząbkowany grzebień biegnący od czoła ku tyłowi głowy stanowi schematyzację fryzury inicjacyjnej; szerokie nozdrza, otwarte usta i zaakcentowane uszy uzupełniają wyraz transu rytualnego.
+
+Powierzchnia maski jest pokryta gęstym wzorem białych, kaolinowych kropek oraz linii — to ślad ceremonii inicjacyjnych młodzieńców (libwa) lub obrzędu pogrzebowego dygnitarza, w którym kaolin (mpemba) reprezentuje świat przodków, biel duchową obecność i czystość. Mocno startą polichromię i głębokie spękania drewna należy interpretować jako dowód intensywnego, wielopokoleniowego użytkowania.
+
+*[SZKIC — opis wstępny, sporządzony na podstawie analizy wizualnej obiektu i jego ogólnego kontekstu kulturowego. Wymaga weryfikacji przez eksperta sztuki afrykańskiej; pełna karta katalogowa zostanie sporządzona w odrębnej dokumentacji KRS.]*
