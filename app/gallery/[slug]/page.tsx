@@ -2,6 +2,7 @@ import Link from 'next/link';
 import Image from 'next/image';
 import { notFound } from 'next/navigation';
 import { getExhibit, getExhibits } from '@/lib/content';
+import InlineMarkdown from '@/components/InlineMarkdown';
 
 export async function generateStaticParams() {
   return getExhibits('pl').map(ex => ({ slug: ex.slug }));
@@ -60,9 +61,9 @@ export default function ExhibitPage({ params }: { params: { slug: string } }) {
           {ex.metadata}
         </div>
         {ex.body && (
-          <div className="text-sm leading-relaxed mb-10 whitespace-pre-line opacity-90 max-w-2xl mx-auto">
+          <InlineMarkdown className="text-sm leading-relaxed mb-10 opacity-90 max-w-2xl mx-auto text-left">
             {ex.body}
-          </div>
+          </InlineMarkdown>
         )}
         {ex.pdfUrl && (
           <a href={ex.pdfUrl} target="_blank" rel="noopener noreferrer" className="btn-outline">
