@@ -5,16 +5,21 @@ slug: kogut-okukur
 image: "/uploads/images/aM2PnJ5xUNkB06p7_photo-3.jpg"
 imageAlt: "Rooster - Okukur"
 pdfUrl: "/uploads/pdfs/aNppEZ5xUNkB1NyM_KRS9opispelnydopobraniaPL_ENG.pdf"
-pdfLabel: "Download PDF"
+pdfLabel: "Download PDF documentation"
 prevSlug: "lefem"
 nextSlug: "luba"
 firstPublished: "2025-09-24T10:14:23+0000"
 lastPublished: "2026-05-15T14:30:19+0000"
 metadata: |
-  Origin: Nigeria
-  People/Ethnic Group: Kingdom of Benin
-  Material: Bronze
-  Technique: Casting
+  Height: 107 cm
   Age: circa 1950
 ---
 
+Origin: Nigeria People/Ethnic Group: Kingdom of Benin Material: Bronze Technique: Casting Okukur depicts a rooster, a symbol of power, fertility, and wealth. Such figurines were prestigious artifacts. The rooster was also a symbol of royal authority and, in a sense, the incarnation of the Oba. A local proverb says, "The Oba is the rooster that cackles the loudest." The Kingdom of Benin, which existed from the 13th to the 19th century and was located in present-day Nigeria. The first historical ruler was Prince Oranmyan. His son Eweka became the first Oba, or king. The most famous Oba, however, was Ewuare the Great, who ruled from 1440 to 1480. He was viewed by his contemporaries as a great warrior possessing magical powers. His achievements include establishing the principle of hereditary succession to the throne, rebuilding the capital, building massive walls around it, and developing aesthetic canons of courtly art. Thanks to him, later Obas became political leaders, ultimate judges, and spiritual leaders. As a result of the reforms introduced, the Kingdom of Benin was for centuries an equal partner to the Portuguese kings, to whom they had an ambassador. The Benin Empire supported itself by trading ivory, palm oil, and pepper, which they supplied to Portuguese and Dutch merchants. They also traded in slaves. The art of the Benin Kingdom developed based on craft guilds that produced ivory and bronze objects. They became famous primarily for their bronze figurines and casts depicting genre scenes from the court and important public figures. At the turn of the 18th and 19th centuries, the empire began to weaken due to feuds between the heirs to the throne and their families. This resulted in numerous civil wars, ultimately leading to the collapse of the state. The end of the Benin Empire dates back to 1897, when the British captured the capital of the state, which
+
+was subsequently incorporated into British Nigeria. The vast Lower Niger River basin is home to several centers of diverse peoples producing terracotta, bronze, and wood objects of high artistic value on a sub-Saharan African scale. The oldest bronze artifacts date from the late 1st millennium AD in IgboUkwu, southeastern Nigeria. The most important center for the production of terracotta and bronze sculptures, from the early 2nd millennium AD, was the sacred city of Ife, where numerous works in a distinctive style were created, which significantly influenced the work of neighboring tribes. The art of bronze casting reached Benin from Ife in the 13th/14th centuries. Other important sites of artistic bronze production included the cities of Udo and Tada, neighboring Benin and the Yoruba kingdoms. Ife and Benin are the most important centers of art in Sub-Saharan Africa, producing, among other works, exquisite bronze objects. The artistic works of Ife and Benin—bronzes and terracottas—have a documented centuries-old tradition of their production, primarily for the power centers in both cities. The art of Ife and Benin displays numerous similarities, and the influence of both centers is also evident in the artistic work of neighboring peoples. The right to produce bronze sculptures for the courts in Ife and Benin belonged to specialized craftsmen—blacksmiths, organized into a privileged "guild." The blacksmith workshops of Ife and Benin have produced the most valuable works of West African bronze art over the past several hundred years. Bronze objects were assigned to the royal court. Their aesthetics and iconography referenced the founding myths of the Benin kingdom and emphasized the prestige of figures associated with the ruler, such as the Queen Mother, other royal wives, officials, and warriors. These objects constituted elements of cult, being placed on altars before which votive offerings were offered. Objects made of the durable material bronze established a clear boundary between the "divine" royal court and the tribal traditions associated "solely with the afterlife," represented by wooden objects. Owning a large number of bronze figurines enhanced the owner's prestige and often also defined their position or position at court. Not only the quantity but also the size of the objects was important. As is common in Africa, the larger the better. The importance of lost-wax objects in Benin's culture, and indeed the statehood of Benin, is demonstrated by the fact that to this day, Beninese consider the moment when the British seized the treasury full of bronzes in 1897 a symbol of their downfall. Opracowanie: Dr Dariusz Skonieczko
+
+**History / Provenance:**
+
+Collection - Rudolf Steinmann
+Collection - Ryszard and Joanna Stolarscy - purchased in 2023.
