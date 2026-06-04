@@ -1,0 +1,183 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "text": "Contact",
+      "spans": [],
+      "direction": "ltr"
+    }
+  ],
+  "parent": {
+    "link_type": "Document"
+  },
+  "slices": [
+    {
+      "variation": "default",
+      "version": "initial",
+      "items": [],
+      "primary": {
+        "title": "Contact",
+        "text": []
+      },
+      "id": "header$13c16856-8f2e-43a6-a4a2-24c5c0adc373",
+      "slice_type": "header",
+      "slice_label": null
+    },
+    {
+      "variation": "default",
+      "version": "initial",
+      "items": [],
+      "primary": {
+        "nameLabel": "Name",
+        "lastNameLabel": "Second name",
+        "emailLabel": "Email",
+        "phoneLabel": "Phone",
+        "messageLabel": "Message"
+      },
+      "id": "contact_form$a03787a4-6753-4b8d-9747-e79bbfd09b5d",
+      "slice_type": "contact_form",
+      "slice_label": null
+    },
+    {
+      "variation": "twoColumns",
+      "version": "sktwi1xtmkfgx8626",
+      "items": [],
+      "primary": {
+        "text": [
+          {
+            "type": "heading2",
+            "text": "Phone",
+            "spans": [],
+            "direction": "ltr"
+          },
+          {
+            "type": "paragraph",
+            "text": "+48 511 007 009\n",
+            "spans": [],
+            "direction": "ltr"
+          },
+          {
+            "type": "heading2",
+            "text": "Address",
+            "spans": [],
+            "direction": "ltr"
+          },
+          {
+            "type": "paragraph",
+            "text": "ul. Emilii Plater 30,\n00-698 Warszawa",
+            "spans": [],
+            "direction": "ltr"
+          },
+          {
+            "type": "paragraph",
+            "text": "",
+            "spans": [],
+            "direction": "ltr"
+          },
+          {
+            "type": "heading2",
+            "text": "Email",
+            "spans": [],
+            "direction": "ltr"
+          },
+          {
+            "type": "paragraph",
+            "text": "info@africanart.gallery",
+            "spans": [
+              {
+                "start": 0,
+                "end": 23,
+                "type": "hyperlink",
+                "data": {
+                  "link_type": "Web",
+                  "url": "mailto:info@africanart.gallery",
+                  "target": "_blank"
+                }
+              }
+            ],
+            "direction": "ltr"
+          },
+          {
+            "type": "paragraph",
+            "text": "",
+            "spans": [],
+            "direction": "ltr"
+          },
+          {
+            "type": "heading2",
+            "text": "Social media",
+            "spans": [],
+            "direction": "ltr"
+          },
+          {
+            "type": "paragraph",
+            "text": "Instagram\nFacebook\nYoutube",
+            "spans": [
+              {
+                "start": 0,
+                "end": 9,
+                "type": "hyperlink",
+                "data": {
+                  "link_type": "Web",
+                  "url": "https://www.instagram.com/africangalleryart",
+                  "target": "_blank"
+                }
+              },
+              {
+                "start": 10,
+                "end": 18,
+                "type": "hyperlink",
+                "data": {
+                  "link_type": "Web",
+                  "url": "https://www.facebook.com/africangalleryart",
+                  "target": "_blank"
+                }
+              },
+              {
+                "start": 19,
+                "end": 26,
+                "type": "hyperlink",
+                "data": {
+                  "link_type": "Web",
+                  "url": "https://www.youtube.com/@TheAfricanArtGallery",
+                  "target": "_blank"
+                }
+              }
+            ],
+            "direction": "ltr"
+          }
+        ]
+      },
+      "id": "text$4c548539-d677-4b1f-8e2d-ff1955f48cd7",
+      "slice_type": "text",
+      "slice_label": null
+    },
+    {
+      "variation": "default",
+      "version": "sktwi1xtmkfgx8626",
+      "items": [],
+      "primary": {
+        "text": [
+          {
+            "type": "heading2",
+            "text": "Opening hours",
+            "spans": [],
+            "direction": "ltr"
+          },
+          {
+            "type": "paragraph",
+            "text": "Temporarily by phone\nreservation only",
+            "spans": [],
+            "direction": "ltr"
+          }
+        ]
+      },
+      "id": "text$5c8c1edb-abfa-4bc4-9b0d-0dcd458fc4b4",
+      "slice_type": "text",
+      "slice_label": null
+    }
+  ],
+  "meta_title": null,
+  "meta_description": null,
+  "meta_image": {}
+}

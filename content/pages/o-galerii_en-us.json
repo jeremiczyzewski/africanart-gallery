@@ -1,0 +1,115 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "text": "About gallery",
+      "spans": [],
+      "direction": "ltr"
+    }
+  ],
+  "parent": {
+    "link_type": "Document"
+  },
+  "slices": [
+    {
+      "variation": "default",
+      "version": "initial",
+      "items": [],
+      "primary": {
+        "title": "About gallery",
+        "text": []
+      },
+      "id": "header$de5d9637-2777-4833-ae14-ec7a39be6f80",
+      "slice_type": "header",
+      "slice_label": null
+    },
+    {
+      "variation": "banner",
+      "version": "sktwi1xtmkfgx8626",
+      "items": [
+        {}
+      ],
+      "primary": {
+        "image": {
+          "dimensions": {
+            "width": 2360,
+            "height": 900
+          },
+          "alt": "African Art Gallery",
+          "copyright": null,
+          "url": "https://images.prismic.io/african-art-gallery/aReN77pReVYa4gPa_slider-3.jpg?auto=format%2Ccompress&rect=0%2C186%2C2360%2C900&w=2360&h=900",
+          "id": "aReN77pReVYa4gPa",
+          "edit": {
+            "x": 0,
+            "y": 186,
+            "zoom": 1,
+            "background": "transparent"
+          }
+        }
+      },
+      "id": "image$03e44ab7-bc91-4a88-85ca-064e033e20fd",
+      "slice_type": "image",
+      "slice_label": null
+    },
+    {
+      "variation": "oneColumnCentered",
+      "version": "sktwi1xtmkfgx8626",
+      "items": [],
+      "primary": {
+        "text": [
+          {
+            "type": "heading1",
+            "text": "African Art Gallery",
+            "spans": [],
+            "direction": "ltr"
+          },
+          {
+            "type": "paragraph",
+            "text": "African Art Gallery – kolekcja Joanny i Ryszarda Stolarskich to przestrzeń stworzona z pasji, wiedzy i głębokiego szacunku do afrykańskiego dziedzictwa kulturowego. Jej początki sięgają spotkania Ryszarda Stolarskiego – kolekcjonera i miłośnika sztuki – z wybitnym marszandem Rudim Steinemannem, prowadzącym galerię sztuki plemiennej w Wiesbaden. To właśnie wtedy rozpoczęła się droga, która dziś prowadzi do jednej z najciekawszych prywatnych kolekcji sztuki afrykańskiej w Polsce.",
+            "spans": [],
+            "direction": "ltr"
+          },
+          {
+            "type": "paragraph",
+            "text": "Kolekcja obejmuje obecnie ponad 200 starannie wyselekcjonowanych obiektów pochodzących głównie z Afryki Zachodniej i Centralnej. Każdy z nich został pozyskany nie tylko z uwzględnieniem proweniencji i walorów estetycznych, ale również stanu zachowania i potencjału badawczego. Wśród eksponatów znajdują się rzeźby, maski i artefakty rytualne — zarówno z dawnych kolekcji prywatnych, jak i obiektów muzealnych z całego świata.",
+            "spans": [],
+            "direction": "ltr"
+          },
+          {
+            "type": "paragraph",
+            "text": "Unikalność zbiorów galerii tkwi nie tylko w ich różnorodności, ale także w skrupulatnej dokumentacji. Każdy przedmiot posiada własną kartę inwentarzową, historię, nazwę oraz atrybucję, często ustaloną podczas badań terenowych. Wszystkie obiekty zostały profesjonalnie opisane, sfotografowane i zakonserwowane. Zbiór znajduje się pod stałą opieką wybitnych specjalistów z dziedziny historii sztuki, konserwacji oraz doświadczonych muzealników, co gwarantuje najwyższy standard merytoryczny i etyczny.",
+            "spans": [],
+            "direction": "ltr"
+          },
+          {
+            "type": "paragraph",
+            "text": "African Art Gallery to nie tylko kolekcja – to żywe świadectwo historii, kultury i duchowości. To przestrzeń, która inspiruje, edukuje i prowokuje do refleksji nad znaczeniem afrykańskiej sztuki w kontekście uniwersalnych wartości kulturowych.",
+            "spans": [],
+            "direction": "ltr"
+          }
+        ]
+      },
+      "id": "text$32ecacba-a92a-4310-897f-f74a8bdf9d09",
+      "slice_type": "text",
+      "slice_label": null
+    }
+  ],
+  "meta_title": "About",
+  "meta_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sagittis eu hac volutpat velit donec scelerisque. Vel pellentesque tellus facilisis integer blandit porttitor posuere aliquam amet.",
+  "meta_image": {
+    "dimensions": {
+      "width": 2400,
+      "height": 1260
+    },
+    "alt": null,
+    "copyright": null,
+    "url": "https://images.prismic.io/marketing-24/ZkdcuCol0Zci9PlQ_waves.jpg?auto=format%2Ccompress&rect=0%2C481%2C4096%2C2150&w=2400&h=1260",
+    "id": "ZkdcuCol0Zci9PlQ",
+    "edit": {
+      "x": 0,
+      "y": 481,
+      "zoom": 1,
+      "background": "transparent"
+    }
+  }
+}

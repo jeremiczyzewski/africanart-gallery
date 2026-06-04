@@ -1,0 +1,73 @@
+{
+  "links": [
+    {
+      "label": [
+        {
+          "type": "heading3",
+          "text": "About Gallery",
+          "spans": [],
+          "direction": "ltr"
+        }
+      ],
+      "link": {
+        "id": "aDWWahEAACYAvcpE",
+        "type": "page",
+        "tags": [],
+        "lang": "en-us",
+        "slug": "about-gallery",
+        "first_publication_date": "2025-05-27T10:40:21+0000",
+        "last_publication_date": "2026-05-15T10:34:36+0000",
+        "uid": "o-galerii",
+        "link_type": "Document",
+        "key": "75e360b1-05f4-465d-b67c-6d62971c30d7",
+        "isBroken": false
+      }
+    },
+    {
+      "label": [
+        {
+          "type": "heading3",
+          "text": "Gallery Creators",
+          "spans": [],
+          "direction": "ltr"
+        }
+      ],
+      "link": {
+        "id": "aDbrcxEAACUARqM2",
+        "type": "page",
+        "tags": [],
+        "lang": "en-us",
+        "slug": "gallery-creators",
+        "first_publication_date": "2025-05-30T14:50:17+0000",
+        "last_publication_date": "2026-05-15T13:31:04+0000",
+        "uid": "tworcy-galerii",
+        "link_type": "Document",
+        "key": "07747cb3-63c9-4f49-95d6-ee9389756527",
+        "isBroken": false
+      }
+    },
+    {
+      "label": [
+        {
+          "type": "heading3",
+          "text": "Contact",
+          "spans": [],
+          "direction": "ltr"
+        }
+      ],
+      "link": {
+        "id": "aDWUvBEAAGhSvcdh",
+        "type": "page",
+        "tags": [],
+        "lang": "en-us",
+        "slug": "contact",
+        "first_publication_date": "2025-05-27T10:39:15+0000",
+        "last_publication_date": "2026-05-15T13:49:00+0000",
+        "uid": "kontakt",
+        "link_type": "Document",
+        "key": "99fb94a0-9e88-4fbd-a4ac-eac1ce57efed",
+        "isBroken": false
+      }
+    }
+  ]
+}

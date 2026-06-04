@@ -1,0 +1,231 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "text": "Gallery Creators",
+      "spans": [],
+      "direction": "ltr"
+    }
+  ],
+  "parent": {
+    "link_type": "Document"
+  },
+  "slices": [
+    {
+      "variation": "default",
+      "version": "initial",
+      "items": [],
+      "primary": {
+        "title": "Gallery Creators",
+        "text": []
+      },
+      "id": "header$7d939d6d-0966-4a18-b1e3-09b9607b012f",
+      "slice_type": "header",
+      "slice_label": null
+    },
+    {
+      "variation": "default",
+      "version": "sktwi1xtmkfgx8626",
+      "items": [],
+      "primary": {
+        "title": "Dr Dariusz Skonieczko",
+        "text": [
+          {
+            "type": "paragraph",
+            "text": "Curator of the African Art Gallery’s collection. An art historian, he earned his master’s degree from the Faculty of Art History at the University of Łódź, defending his thesis in 2008 titled “Contemporary Stone Sculpture from Zimbabwe.”",
+            "spans": [
+              {
+                "start": 192,
+                "end": 237,
+                "type": "em"
+              }
+            ],
+            "direction": "ltr"
+          },
+          {
+            "type": "paragraph",
+            "text": "He is the curator of exhibitions and the author of the concept for the permanent display “African Journeys. Asian Paths,” as well as numerous temporary exhibitions dedicated to non-European art. He publishes in academic journals, including those listed by the Polish Ministry of Science and Higher Education. He is the co-author of the book “Stefan Szolc Rogoziński – The Forgotten Explorer of Africa,” the comic book “A Voyage into Adventure,” and the documentary films “Kings, Palavers and a Forgotten Explorer” (2016), “The Expedition” (2016), and “The Wanderer’s Return” (2023).",
+            "spans": [
+              {
+                "start": 89,
+                "end": 121,
+                "type": "em"
+              },
+              {
+                "start": 341,
+                "end": 402,
+                "type": "em"
+              },
+              {
+                "start": 418,
+                "end": 444,
+                "type": "em"
+              },
+              {
+                "start": 471,
+                "end": 513,
+                "type": "em"
+              },
+              {
+                "start": 522,
+                "end": 538,
+                "type": "em"
+              },
+              {
+                "start": 551,
+                "end": 574,
+                "type": "em"
+              }
+            ],
+            "direction": "ltr"
+          },
+          {
+            "type": "paragraph",
+            "text": "He has taken part in research expeditions to Zimbabwe, the Democratic Republic of the Congo, Côte d’Ivoire, Gabon, Nigeria, Equatorial Guinea and Liberia. The 2008 expedition to Zimbabwe and the DRC was carried out under the patronage of the Ministry of Culture and National Heritage. These journeys resulted in numerous artefacts being brought back to enrich the collections of the Museum of Ethnography (PME) and the Museum of Archaeology and Ethnography (MAiE).",
+            "spans": [],
+            "direction": "ltr"
+          },
+          {
+            "type": "paragraph",
+            "text": "In 2016, he was awarded the title of Adviser and Dignitary of the Royal Court of Mondoli by the king of the Mondoli people (Cameroon), Dr. Ekoke Molindo.",
+            "spans": [],
+            "direction": "ltr"
+          }
+        ],
+        "image": {}
+      },
+      "id": "text_with_image$3aa078d5-a3fb-4c21-a872-aeaf6bddeaa9",
+      "slice_type": "text_with_image",
+      "slice_label": null
+    },
+    {
+      "variation": "default",
+      "version": "sktwi1xtmkfgx8626",
+      "items": [],
+      "primary": {
+        "title": "Diana Kułakowska",
+        "text": [
+          {
+            "type": "paragraph",
+            "text": "A conservator of paintings and wooden sculpture, she graduated from the Faculty of Conservation and Restoration of Works of Art at the Academy of Fine Arts in Warsaw (degree awarded in 2017), where she now works as an assistant in the Department of Conservation of Easel Paintings on Movable Supports and Polychrome Wooden Sculpture.",
+            "spans": [],
+            "direction": "ltr"
+          },
+          {
+            "type": "paragraph",
+            "text": "In her professional practice, she works with both historical and contemporary easel painting as well as West African art. As a member of the Academy’s staff, she participated in a scientific and conservation project in northern Lebanon dedicated to the protection of medieval wall paintings from the time of the Crusades, as well as conservation work on ancient wall paintings in the Villa Arianna in one of the Vesuvian cities — Stabiae. She also runs a private conservation business, though she values cooperation and friendship far more than competition.",
+            "spans": [],
+            "direction": "ltr"
+          },
+          {
+            "type": "paragraph",
+            "text": "What she finds most compelling in conservation is investigative work and in-depth observation — a process built on asking countless questions and persistently searching for answers. She is convinced that works of art, much like people, always have fascinating stories to tell; one simply needs to ask the right questions and look closely for the answers. The guiding principle that accompanies her in her daily professional challenges is: “We see only what we know.” It is this idea that fuels her drive to continually expand her knowledge — and with it, her field of vision and understanding of the world.",
+            "spans": [
+              {
+                "start": 439,
+                "end": 440,
+                "type": "strong"
+              },
+              {
+                "start": 464,
+                "end": 466,
+                "type": "strong"
+              }
+            ],
+            "direction": "ltr"
+          }
+        ],
+        "image": {}
+      },
+      "id": "text_with_image$95347e14-9c43-4411-9522-a92ed7b033d0",
+      "slice_type": "text_with_image",
+      "slice_label": null
+    },
+    {
+      "variation": "default",
+      "version": "sktwi1xtmkfgx8626",
+      "items": [],
+      "primary": {
+        "title": "Jeremi Czyżewski",
+        "text": [
+          {
+            "type": "paragraph",
+            "text": "Film director, producer, screenwriter and editor. Co-producer and director of a series of documentary films on Ukrainian themes: “Knight of the Moon” (2003), “Prince of Wine” (2004), and “Red and Black” (2005). Co-creator of advertising campaigns and artistic concepts for brands entering the Polish market, including Canal+ and Smirnoff. Co-author of promotional film series for the National Library of Poland and the Copernicus Science Centre. He collaborates with major Polish television networks — TVN, Polsat, TVP, TV4 and TV6 — as well as numerous advertising agencies. He has published articles in Machina, Plastic and Sukces magazines. Photographer and photo editor.",
+            "spans": [
+              {
+                "start": 129,
+                "end": 149,
+                "type": "em"
+              },
+              {
+                "start": 158,
+                "end": 174,
+                "type": "em"
+              },
+              {
+                "start": 187,
+                "end": 202,
+                "type": "em"
+              },
+              {
+                "start": 605,
+                "end": 612,
+                "type": "em"
+              },
+              {
+                "start": 614,
+                "end": 621,
+                "type": "em"
+              },
+              {
+                "start": 626,
+                "end": 632,
+                "type": "em"
+              }
+            ],
+            "direction": "ltr"
+          },
+          {
+            "type": "paragraph",
+            "text": "In the 1990s, he organized art events, including at the legendary Krzysztofory Gallery in Kraków and at Blue Velvet at the Academy of Fine Arts in Warsaw. He has created video projections for the Contemporary Theatre, the New Theatre and the Warsaw Rising Museum, as well as visual designs for numerous theatrical productions directed by Marcin Liber.",
+            "spans": [],
+            "direction": "ltr"
+          }
+        ],
+        "image": {}
+      },
+      "id": "text_with_image$20d39cc6-0236-4033-87bc-c977fc30e007",
+      "slice_type": "text_with_image",
+      "slice_label": null
+    },
+    {
+      "variation": "default",
+      "version": "sktwi1xtmkfgx8626",
+      "items": [],
+      "primary": {
+        "title": "Maciej Romanov",
+        "text": [
+          {
+            "type": "paragraph",
+            "text": "Creator of spatial installations, designer and director of artistic projects. He works across diverse techniques and materials — from metal, clay and textiles to light, sound and assemblage — creating installations that enter into dialogue with space, matter and the viewer. His works often take the form of multilayered structures inspired by the meeting of cultures and the contrast of forms.",
+            "spans": [],
+            "direction": "ltr"
+          },
+          {
+            "type": "paragraph",
+            "text": "He also develops the visual and emotional identity of brands, crafting cohesive visual narratives and brand feeling. In parallel, he designs original menswear, stage costumes and forms situated between fashion and performance. As an artistic director, he co-creates photo shoots, fashion shows, exhibition openings and performative events. He blends art, design and storytelling into a consistent, distinctive visual language.",
+            "spans": [],
+            "direction": "ltr"
+          }
+        ],
+        "image": {}
+      },
+      "id": "text_with_image$c129fd8f-59f8-45bb-9d79-516e3ee5aa07",
+      "slice_type": "text_with_image",
+      "slice_label": null
+    }
+  ],
+  "meta_title": null,
+  "meta_description": null,
+  "meta_image": {}
+}

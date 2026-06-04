@@ -1,0 +1,773 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "text": "Gallery",
+      "spans": [],
+      "direction": "ltr"
+    }
+  ],
+  "parent": {
+    "link_type": "Document"
+  },
+  "slices": [
+    {
+      "variation": "default",
+      "version": "initial",
+      "items": [],
+      "primary": {
+        "title": "Exhibits",
+        "text": []
+      },
+      "id": "header$122b073f-d984-4ca6-8247-90440dd9a167",
+      "slice_type": "header",
+      "slice_label": null
+    },
+    {
+      "variation": "default",
+      "version": "initial",
+      "items": [],
+      "primary": {
+        "galleryItem": [
+          {
+            "title": "Lefem",
+            "text": "Sculpture of a Leader",
+            "image": {
+              "dimensions": {
+                "width": 800,
+                "height": 1024
+              },
+              "alt": "Lefem - sculpture of a Leader",
+              "copyright": null,
+              "url": "https://images.prismic.io/african-art-gallery/aM2PX55xUNkB06pg_photo-1.jpg?auto=format,compress",
+              "id": "aM2PX55xUNkB06pg",
+              "edit": {
+                "x": 0,
+                "y": 0,
+                "zoom": 1,
+                "background": "transparent"
+              }
+            },
+            "link": {
+              "id": "aM0fWhIAACQAVmp8",
+              "type": "gallery",
+              "tags": [],
+              "lang": "en-us",
+              "slug": "lefem",
+              "first_publication_date": "2025-09-19T09:16:19+0000",
+              "last_publication_date": "2025-11-22T12:22:37+0000",
+              "uid": "lefem",
+              "link_type": "Document",
+              "key": "0b50c498-930a-4e59-b0b5-b66731031404",
+              "isBroken": false
+            }
+          },
+          {
+            "title": "Rooster - Okukur",
+            "text": "Symbol of Power, Fertility and Wealth",
+            "image": {
+              "dimensions": {
+                "width": 800,
+                "height": 1024
+              },
+              "alt": "Rooster - Okukur",
+              "copyright": null,
+              "url": "https://images.prismic.io/african-art-gallery/aM2PnJ5xUNkB06p7_photo-3.jpg?auto=format,compress",
+              "id": "aM2PnJ5xUNkB06p7",
+              "edit": {
+                "x": 0,
+                "y": 0,
+                "zoom": 1,
+                "background": "transparent"
+              }
+            },
+            "link": {
+              "id": "aNPEexIAACQAYFt-",
+              "type": "gallery",
+              "tags": [],
+              "lang": "en-us",
+              "slug": "rooster---okukur",
+              "first_publication_date": "2025-09-24T10:14:23+0000",
+              "last_publication_date": "2026-05-15T14:30:19+0000",
+              "uid": "kogut-okukur",
+              "link_type": "Document",
+              "key": "97906c4c-4a4f-404f-bc61-dbc1de1e022d",
+              "isBroken": false
+            }
+          },
+          {
+            "title": "Luba",
+            "text": "Ancestor Figure",
+            "image": {
+              "dimensions": {
+                "width": 800,
+                "height": 1024
+              },
+              "alt": "Luba Ancestor Figure with a Carved Likeness of an Ancestor",
+              "copyright": null,
+              "url": "https://images.prismic.io/african-art-gallery/aNwbUJ5xUNkB1TUc_16.jpg?auto=format,compress",
+              "id": "aNwbUJ5xUNkB1TUc",
+              "edit": {
+                "x": 0,
+                "y": 0,
+                "zoom": 1,
+                "background": "transparent"
+              }
+            },
+            "link": {
+              "id": "aNPDiRIAACEAYFnQ",
+              "type": "gallery",
+              "tags": [],
+              "lang": "en-us",
+              "slug": "luba",
+              "first_publication_date": "2025-09-24T10:10:25+0000",
+              "last_publication_date": "2025-11-22T14:51:51+0000",
+              "uid": "luba",
+              "link_type": "Document",
+              "key": "de0db125-3aa2-483c-b831-ad012718773b",
+              "isBroken": false
+            }
+          },
+          {
+            "title": "Deangle/Takangle",
+            "text": "Takangle mask",
+            "image": {
+              "dimensions": {
+                "width": 800,
+                "height": 1024
+              },
+              "alt": "Takangle/deangle mask",
+              "copyright": null,
+              "url": "https://images.prismic.io/african-art-gallery/aM2Pm55xUNkB06p6_photo-4.jpg?auto=format,compress",
+              "id": "aM2Pm55xUNkB06p6",
+              "edit": {
+                "x": 0,
+                "y": 0,
+                "zoom": 1,
+                "background": "transparent"
+              }
+            },
+            "link": {
+              "id": "aNPFnxIAACEAYF1d",
+              "type": "gallery",
+              "tags": [],
+              "lang": "en-us",
+              "slug": "takangledeangle",
+              "first_publication_date": "2025-09-24T10:20:06+0000",
+              "last_publication_date": "2025-11-22T14:52:56+0000",
+              "uid": "takangledeangle",
+              "link_type": "Document",
+              "key": "54ee22e6-a5a3-46c2-8daf-f4e1fc34be37",
+              "isBroken": false
+            }
+          },
+          {
+            "title": "Slit Drum",
+            "text": "Idiophone - Musical Instrument",
+            "image": {
+              "dimensions": {
+                "width": 800,
+                "height": 1024
+              },
+              "alt": "Slit Drum. Idiophone - Musical Instrument",
+              "copyright": null,
+              "url": "https://images.prismic.io/african-art-gallery/aM2Pmp5xUNkB06p5_photo-5.jpg?auto=format,compress",
+              "id": "aM2Pmp5xUNkB06p5",
+              "edit": {
+                "x": 0,
+                "y": 0,
+                "zoom": 1,
+                "background": "transparent"
+              }
+            },
+            "link": {
+              "id": "aNPHABIAACMAYF-e",
+              "type": "gallery",
+              "tags": [],
+              "lang": "en-us",
+              "slug": "slit-drum",
+              "first_publication_date": "2025-09-24T10:25:09+0000",
+              "last_publication_date": "2026-05-15T14:31:29+0000",
+              "uid": "beben-szczelinowy",
+              "link_type": "Document",
+              "key": "7a9addcc-0152-48eb-a293-520ad3caec44",
+              "isBroken": false
+            }
+          },
+          {
+            "title": "Biteki/buti",
+            "text": "Męski fetysz mocy",
+            "image": {
+              "dimensions": {
+                "width": 800,
+                "height": 1024
+              },
+              "alt": "Męski fetysz mocy Biteki/Buti",
+              "copyright": null,
+              "url": "https://images.prismic.io/african-art-gallery/aM2PmZ5xUNkB06p4_photo-6.jpg?auto=format,compress",
+              "id": "aM2PmZ5xUNkB06p4",
+              "edit": {
+                "x": 0,
+                "y": 0,
+                "zoom": 1,
+                "background": "transparent"
+              }
+            },
+            "link": {
+              "id": "aNPKghIAACMAYGWY",
+              "type": "gallery",
+              "tags": [],
+              "lang": "en-us",
+              "slug": "male-bitekibuti-power-fetish",
+              "first_publication_date": "2025-09-24T10:40:08+0000",
+              "last_publication_date": "2026-05-15T15:33:10+0000",
+              "uid": "meski-fetysz-mocy-bitekibuti",
+              "link_type": "Document",
+              "key": "789df16b-609b-479d-91cf-9c8f6d214636",
+              "isBroken": false
+            }
+          },
+          {
+            "title": "Nkishi nkondi",
+            "text": "Figurka strzegąca przed wpływami magii",
+            "image": {
+              "dimensions": {
+                "width": 800,
+                "height": 1024
+              },
+              "alt": "Nkishi nkondi",
+              "copyright": null,
+              "url": "https://images.prismic.io/african-art-gallery/aM2PmJ5xUNkB06p3_photo-7.jpg?auto=format,compress",
+              "id": "aM2PmJ5xUNkB06p3",
+              "edit": {
+                "x": 0,
+                "y": 0,
+                "zoom": 1,
+                "background": "transparent"
+              }
+            },
+            "link": {
+              "id": "aNPLYxIAACIAYGcM",
+              "type": "gallery",
+              "tags": [],
+              "lang": "en-us",
+              "slug": "nkishi-nkondi",
+              "first_publication_date": "2025-09-24T10:43:52+0000",
+              "last_publication_date": "2025-11-14T18:11:25+0000",
+              "uid": "nkishi-nkondi",
+              "link_type": "Document",
+              "key": "bf4dfe35-5052-4bb1-b174-4ca55bad243a",
+              "isBroken": false
+            }
+          },
+          {
+            "title": "Takangle/Deangle",
+            "text": "Maska takangle",
+            "image": {
+              "dimensions": {
+                "width": 800,
+                "height": 1024
+              },
+              "alt": "Takangle/Deangle",
+              "copyright": null,
+              "url": "https://images.prismic.io/african-art-gallery/aM2Pl55xUNkB06p2_photo-8.jpg?auto=format,compress",
+              "id": "aM2Pl55xUNkB06p2",
+              "edit": {
+                "x": 0,
+                "y": 0,
+                "zoom": 1,
+                "background": "transparent"
+              }
+            },
+            "link": {
+              "id": "aNPL6BIAACMAYGgH",
+              "type": "gallery",
+              "tags": [],
+              "lang": "en-us",
+              "slug": "takangledeangle",
+              "first_publication_date": "2025-09-24T10:46:07+0000",
+              "last_publication_date": "2025-11-14T18:18:08+0000",
+              "uid": "takangledeangle-2",
+              "link_type": "Document",
+              "key": "5718bb10-2001-4d9e-9f3c-67feba3b0fab",
+              "isBroken": false
+            }
+          },
+          {
+            "title": "Mbulu ngulu",
+            "text": "Relikwiarz męski",
+            "image": {
+              "dimensions": {
+                "width": 800,
+                "height": 1024
+              },
+              "alt": "Mbulu ngulu (relikwiarz męski)",
+              "copyright": null,
+              "url": "https://images.prismic.io/african-art-gallery/aM2Plp5xUNkB06p1_photo-9.jpg?auto=format,compress",
+              "id": "aM2Plp5xUNkB06p1",
+              "edit": {
+                "x": 0,
+                "y": 0,
+                "zoom": 1,
+                "background": "transparent"
+              }
+            },
+            "link": {
+              "id": "aNPMbxIAACEAYGj-",
+              "type": "gallery",
+              "tags": [],
+              "lang": "en-us",
+              "slug": "mbulu-ngulu-relikwiarz-meski",
+              "first_publication_date": "2025-09-24T10:48:20+0000",
+              "last_publication_date": "2025-11-14T18:19:36+0000",
+              "uid": "mbulu-ngulu-relikwiarz-meski",
+              "link_type": "Document",
+              "key": "cf6a650d-6628-4c23-9721-f5dbc9438aeb",
+              "isBroken": false
+            }
+          },
+          {
+            "title": "Chamba",
+            "text": "Figurka strzegąca domu",
+            "image": {
+              "dimensions": {
+                "width": 800,
+                "height": 1024
+              },
+              "alt": "Chamba",
+              "copyright": null,
+              "url": "https://images.prismic.io/african-art-gallery/aM2PlZ5xUNkB06p0_photo-10.jpg?auto=format,compress",
+              "id": "aM2PlZ5xUNkB06p0",
+              "edit": {
+                "x": 0,
+                "y": 0,
+                "zoom": 1,
+                "background": "transparent"
+              }
+            },
+            "link": {
+              "id": "aNPNQhIAACMAYGpl",
+              "type": "gallery",
+              "tags": [],
+              "lang": "en-us",
+              "slug": "chamba",
+              "first_publication_date": "2025-09-24T10:51:52+0000",
+              "last_publication_date": "2025-11-14T18:20:32+0000",
+              "uid": "chamba",
+              "link_type": "Document",
+              "key": "c23093dc-9d58-48a8-8f90-218c9c65ef02",
+              "isBroken": false
+            }
+          },
+          {
+            "title": "Troh",
+            "text": "Maska stowarzyszenia nocnego Troh",
+            "image": {
+              "dimensions": {
+                "width": 800,
+                "height": 1024
+              },
+              "alt": "Troh",
+              "copyright": null,
+              "url": "https://images.prismic.io/african-art-gallery/aM2PlJ5xUNkB06pz_photo-11.jpg?auto=format,compress",
+              "id": "aM2PlJ5xUNkB06pz",
+              "edit": {
+                "x": 0,
+                "y": 0,
+                "zoom": 1,
+                "background": "transparent"
+              }
+            },
+            "link": {
+              "id": "aNPNtRIAACMAYGsb",
+              "type": "gallery",
+              "tags": [],
+              "lang": "en-us",
+              "slug": "troh",
+              "first_publication_date": "2025-09-24T10:53:47+0000",
+              "last_publication_date": "2025-11-14T18:57:29+0000",
+              "uid": "troh",
+              "link_type": "Document",
+              "key": "f422ce1f-dea9-46d2-a567-1ed87eebe1df",
+              "isBroken": false
+            }
+          },
+          {
+            "title": "Ngil",
+            "text": "Maska stowarzyszenia o nazwie Ngil",
+            "image": {
+              "dimensions": {
+                "width": 800,
+                "height": 1024
+              },
+              "alt": "Ngil",
+              "copyright": null,
+              "url": "https://images.prismic.io/african-art-gallery/aM2Pk55xUNkB06py_photo-12.jpg?auto=format,compress",
+              "id": "aM2Pk55xUNkB06py",
+              "edit": {
+                "x": 0,
+                "y": 0,
+                "zoom": 1,
+                "background": "transparent"
+              }
+            },
+            "link": {
+              "id": "aNPOMhIAACMAYGvj",
+              "type": "gallery",
+              "tags": [],
+              "lang": "en-us",
+              "slug": "ngil",
+              "first_publication_date": "2025-09-24T10:55:51+0000",
+              "last_publication_date": "2025-11-14T19:00:32+0000",
+              "uid": "ngil",
+              "link_type": "Document",
+              "key": "1e757ac5-9ef4-409b-af98-205f30dee6d7",
+              "isBroken": false
+            }
+          },
+          {
+            "title": "Troh",
+            "text": "Maska stowarzyszenia nocnego Troh",
+            "image": {
+              "dimensions": {
+                "width": 800,
+                "height": 1024
+              },
+              "alt": "Troh, pochodzenie - Kamerun",
+              "copyright": null,
+              "url": "https://images.prismic.io/african-art-gallery/aM2Pkp5xUNkB06px_photo-13.jpg?auto=format,compress",
+              "id": "aM2Pkp5xUNkB06px",
+              "edit": {
+                "x": 0,
+                "y": 0,
+                "zoom": 1,
+                "background": "transparent"
+              }
+            },
+            "link": {
+              "id": "aNPOghIAACEAYGxo",
+              "type": "gallery",
+              "tags": [],
+              "lang": "en-us",
+              "slug": "troh",
+              "first_publication_date": "2025-09-24T10:57:11+0000",
+              "last_publication_date": "2025-11-14T19:03:42+0000",
+              "uid": "troh-2",
+              "link_type": "Document",
+              "key": "80795e8f-e5c0-4add-8257-c6b567a5e9a6",
+              "isBroken": false
+            }
+          },
+          {
+            "title": "Maska ciała Gelede",
+            "text": "Maska ciała. Symbol płodności i tradycji",
+            "image": {
+              "dimensions": {
+                "width": 800,
+                "height": 1024
+              },
+              "alt": "Maska ciała Gelede",
+              "copyright": null,
+              "url": "https://images.prismic.io/african-art-gallery/aNwZJp5xUNkB1TQA_98.jpg?auto=format,compress",
+              "id": "aNwZJp5xUNkB1TQA",
+              "edit": {
+                "x": 0,
+                "y": 0,
+                "zoom": 1,
+                "background": "transparent"
+              }
+            },
+            "link": {
+              "id": "aNPPGRIAACIAYG1u",
+              "type": "gallery",
+              "tags": [],
+              "lang": "en-us",
+              "slug": "maska-cia%C5%82a-gelede",
+              "first_publication_date": "2025-09-24T10:59:42+0000",
+              "last_publication_date": "2026-05-15T15:35:33+0000",
+              "uid": "maska-ciala-gelede",
+              "link_type": "Document",
+              "key": "2224a6e2-4efc-463a-b0f0-342e7272feed",
+              "isBroken": false
+            }
+          },
+          {
+            "title": "Lobala",
+            "text": "Posążek mężczyzny. Symbol płodności",
+            "image": {
+              "dimensions": {
+                "width": 800,
+                "height": 1024
+              },
+              "alt": "Lobala - Posążek mężczyzny. Symbol płodności",
+              "copyright": null,
+              "url": "https://images.prismic.io/african-art-gallery/aM2PkJ5xUNkB06pv_photo-15.jpg?auto=format,compress",
+              "id": "aM2PkJ5xUNkB06pv",
+              "edit": {
+                "x": 0,
+                "y": 0,
+                "zoom": 1,
+                "background": "transparent"
+              }
+            },
+            "link": {
+              "id": "aNPPUBIAACEAYG2_",
+              "type": "gallery",
+              "tags": [],
+              "lang": "en-us",
+              "slug": "lobala",
+              "first_publication_date": "2025-09-24T11:00:36+0000",
+              "last_publication_date": "2025-11-14T17:22:10+0000",
+              "uid": "lobala",
+              "link_type": "Document",
+              "key": "5cf62018-d6e8-4d69-989b-69bc4fcaf0b0",
+              "isBroken": false
+            }
+          },
+          {
+            "title": "Fetysz Nkisi Poluku",
+            "text": "Figurki te pełniły kluczową rolę w wierzeniach i rytuałach ludu Lobala",
+            "image": {
+              "dimensions": {
+                "width": 800,
+                "height": 1024
+              },
+              "alt": "Fetysz Nkisi Poluku",
+              "copyright": null,
+              "url": "https://images.prismic.io/african-art-gallery/aM2Pj55xUNkB06pu_photo-16.jpg?auto=format,compress",
+              "id": "aM2Pj55xUNkB06pu",
+              "edit": {
+                "x": 0,
+                "y": 0,
+                "zoom": 1,
+                "background": "transparent"
+              }
+            },
+            "link": {
+              "id": "aNPPXxIAACEAYG3W",
+              "type": "gallery",
+              "tags": [],
+              "lang": "en-us",
+              "slug": "fetysz-gwozdziowy",
+              "first_publication_date": "2025-09-24T11:00:52+0000",
+              "last_publication_date": "2025-11-14T17:23:41+0000",
+              "uid": "fetysz-gwozdziowy",
+              "link_type": "Document",
+              "key": "0eb83c54-49df-47a3-a461-4ed49b91ae44",
+              "isBroken": false
+            }
+          },
+          {
+            "title": "Fetysz Nkisi Makalikubo",
+            "text": "Figurki te pełniły kluczową rolę w wierzeniach i rytuałach ludu Lobala",
+            "image": {
+              "dimensions": {
+                "width": 800,
+                "height": 1024
+              },
+              "alt": "Fetysz gwoździowy",
+              "copyright": null,
+              "url": "https://images.prismic.io/african-art-gallery/aM2Pjp5xUNkB06ps_photo-17.jpg?auto=format,compress",
+              "id": "aM2Pjp5xUNkB06ps",
+              "edit": {
+                "x": 0,
+                "y": 0,
+                "zoom": 1,
+                "background": "transparent"
+              }
+            },
+            "link": {
+              "id": "aNPPehIAACIAYG36",
+              "type": "gallery",
+              "tags": [],
+              "lang": "en-us",
+              "slug": "fetysz-gwozdziowy",
+              "first_publication_date": "2025-09-24T11:01:19+0000",
+              "last_publication_date": "2025-11-14T17:27:27+0000",
+              "uid": "fetysz-gwozdziowy-2",
+              "link_type": "Document",
+              "key": "0f9bd1a4-bb00-4ba5-9dfa-aa7f2e998431",
+              "isBroken": false
+            }
+          },
+          {
+            "title": "Maska ludu Lobala",
+            "text": "Maska patriarchy ludu - Ngolonga Ikokoka",
+            "image": {
+              "dimensions": {
+                "width": 800,
+                "height": 1024
+              },
+              "alt": "Maska patriarchy ludu Lobala - Ngolonga Ikokoka",
+              "copyright": null,
+              "url": "https://images.prismic.io/african-art-gallery/aM2PjZ5xUNkB06pr_photo-18.jpg?auto=format,compress",
+              "id": "aM2PjZ5xUNkB06pr",
+              "edit": {
+                "x": 0,
+                "y": 0,
+                "zoom": 1,
+                "background": "transparent"
+              }
+            },
+            "link": {
+              "id": "aNPPmBIAACQAYG4p",
+              "type": "gallery",
+              "tags": [],
+              "lang": "en-us",
+              "slug": "maska",
+              "first_publication_date": "2025-09-24T11:01:49+0000",
+              "last_publication_date": "2025-11-14T17:30:05+0000",
+              "uid": "maska",
+              "link_type": "Document",
+              "key": "33830d92-68e0-48e8-90bf-c733786e2fac",
+              "isBroken": false
+            }
+          },
+          {
+            "title": "Miecz Orisza Oko",
+            "text": "Hołd dla Orisza Oko - bóstwa rolnictwa",
+            "image": {
+              "dimensions": {
+                "width": 800,
+                "height": 1024
+              },
+              "alt": "Miecz - hołd dla Orisza Oko - bóstwa rolnictwa",
+              "copyright": null,
+              "url": "https://images.prismic.io/african-art-gallery/aM2PjJ5xUNkB06pq_photo-19.jpg?auto=format,compress",
+              "id": "aM2PjJ5xUNkB06pq",
+              "edit": {
+                "x": 0,
+                "y": 0,
+                "zoom": 1,
+                "background": "transparent"
+              }
+            },
+            "link": {
+              "id": "aNPPtBIAACIAYG5X",
+              "type": "gallery",
+              "tags": [],
+              "lang": "en-us",
+              "slug": "miecz",
+              "first_publication_date": "2025-09-24T11:02:17+0000",
+              "last_publication_date": "2025-11-14T16:54:34+0000",
+              "uid": "miecz",
+              "link_type": "Document",
+              "key": "6e555c79-3001-40d2-acba-fb132372563a",
+              "isBroken": false
+            }
+          },
+          {
+            "title": "Miecz Orisza Oko",
+            "text": "Miecz Orisza Oko - bóstwa rolnictwa",
+            "image": {
+              "dimensions": {
+                "width": 800,
+                "height": 1024
+              },
+              "alt": "Miecz Orisza Oko - bóstwa rolnictwa",
+              "copyright": null,
+              "url": "https://images.prismic.io/african-art-gallery/aM2Pi55xUNkB06po_photo-20.jpg?auto=format,compress",
+              "id": "aM2Pi55xUNkB06po",
+              "edit": {
+                "x": 0,
+                "y": 0,
+                "zoom": 1,
+                "background": "transparent"
+              }
+            },
+            "link": {
+              "id": "aNPP0RIAACQAYG6H",
+              "type": "gallery",
+              "tags": [],
+              "lang": "en-us",
+              "slug": "miecz",
+              "first_publication_date": "2025-09-24T11:02:47+0000",
+              "last_publication_date": "2025-11-14T16:56:37+0000",
+              "uid": "miecz-2",
+              "link_type": "Document",
+              "key": "84b228a4-8409-4057-9ff7-f0b567324cbf",
+              "isBroken": false
+            }
+          },
+          {
+            "title": "Pochwa na miecz",
+            "text": "Pochwa na miecz Orisza Oko",
+            "image": {
+              "dimensions": {
+                "width": 800,
+                "height": 1024
+              },
+              "alt": "Pochwa na miecz Orisza Oko",
+              "copyright": null,
+              "url": "https://images.prismic.io/african-art-gallery/aM2Pip5xUNkB06pn_photo-21.jpg?auto=format,compress",
+              "id": "aM2Pip5xUNkB06pn",
+              "edit": {
+                "x": 0,
+                "y": 0,
+                "zoom": 1,
+                "background": "transparent"
+              }
+            },
+            "link": {
+              "id": "aNPP8BIAACQAYG7C",
+              "type": "gallery",
+              "tags": [],
+              "lang": "en-us",
+              "slug": "pochwa-na-miecz",
+              "first_publication_date": "2025-09-24T11:03:17+0000",
+              "last_publication_date": "2025-11-14T16:56:08+0000",
+              "uid": "pochwa-na-miecz",
+              "link_type": "Document",
+              "key": "c8e2f0e7-7c30-457f-b28f-d2507f521c51",
+              "isBroken": false
+            }
+          },
+          {
+            "title": "Figurki Ibeji",
+            "text": "Figurki narodzonych bliźniąt z grupy etnicznej Jaruba",
+            "image": {
+              "dimensions": {
+                "width": 800,
+                "height": 1024
+              },
+              "alt": "Figurki Ibeji - figurki narodzonych bliźniąt z grupy etnicznej Jaruba",
+              "copyright": null,
+              "url": "https://images.prismic.io/african-art-gallery/aM2PiZ5xUNkB06pm_photo-22.jpg?auto=format,compress",
+              "id": "aM2PiZ5xUNkB06pm",
+              "edit": {
+                "x": 0,
+                "y": 0,
+                "zoom": 1,
+                "background": "transparent"
+              }
+            },
+            "link": {
+              "id": "aNPUbhIAACEAYHZX",
+              "type": "page",
+              "tags": [],
+              "lang": "en-us",
+              "slug": "figurki-ibeji",
+              "first_publication_date": "2025-09-24T11:22:26+0000",
+              "last_publication_date": "2025-11-15T11:29:00+0000",
+              "uid": "ibeji",
+              "link_type": "Document",
+              "key": "07f98c8d-2638-430f-a5c8-9eb5d981d721",
+              "isBroken": false,
+              "text": "Zobacz wszystkie"
+            }
+          }
+        ],
+        "link": {
+          "link_type": "Any",
+          "key": "41eebb3c-2195-43e2-b095-4ad865386204"
+        }
+      },
+      "id": "gallery$20e0b8b4-825d-477f-ba0b-f7a16c22e3dc",
+      "slice_type": "gallery",
+      "slice_label": null
+    }
+  ],
+  "meta_title": null,
+  "meta_description": null,
+  "meta_image": {}
+}

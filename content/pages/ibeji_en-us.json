@@ -1,0 +1,516 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "text": "Figurki Ibeji",
+      "spans": [],
+      "direction": "ltr"
+    }
+  ],
+  "parent": {
+    "link_type": "Document"
+  },
+  "slices": [
+    {
+      "variation": "default",
+      "version": "initial",
+      "items": [],
+      "primary": {
+        "title": "Figurki Ibeji",
+        "text": []
+      },
+      "id": "header$aad3078f-36e5-40bb-886e-218d70cccdfc",
+      "slice_type": "header",
+      "slice_label": null
+    },
+    {
+      "variation": "default",
+      "version": "initial",
+      "items": [],
+      "primary": {
+        "galleryItem": [
+          {
+            "title": null,
+            "text": null,
+            "image": {
+              "dimensions": {
+                "width": 800,
+                "height": 1024
+              },
+              "alt": null,
+              "copyright": null,
+              "url": "https://images.prismic.io/african-art-gallery/aNPUGp5xUNkB1Ddi_ibeji-1.jpg?auto=format,compress",
+              "id": "aNPUGp5xUNkB1Ddi",
+              "edit": {
+                "x": 0,
+                "y": 0,
+                "zoom": 1,
+                "background": "transparent"
+              }
+            },
+            "link": {
+              "link_type": "Any"
+            }
+          },
+          {
+            "title": null,
+            "text": null,
+            "image": {
+              "dimensions": {
+                "width": 800,
+                "height": 1024
+              },
+              "alt": null,
+              "copyright": null,
+              "url": "https://images.prismic.io/african-art-gallery/aNPUHJ5xUNkB1Ddj_ibeji-2.jpg?auto=format,compress",
+              "id": "aNPUHJ5xUNkB1Ddj",
+              "edit": {
+                "x": 0,
+                "y": 0,
+                "zoom": 1,
+                "background": "transparent"
+              }
+            },
+            "link": {
+              "link_type": "Any"
+            }
+          },
+          {
+            "title": null,
+            "text": null,
+            "image": {
+              "dimensions": {
+                "width": 800,
+                "height": 1024
+              },
+              "alt": null,
+              "copyright": null,
+              "url": "https://images.prismic.io/african-art-gallery/aNPUHJ5xUNkB1Ddk_ibeji-3.jpg?auto=format,compress",
+              "id": "aNPUHJ5xUNkB1Ddk",
+              "edit": {
+                "x": 0,
+                "y": 0,
+                "zoom": 1,
+                "background": "transparent"
+              }
+            },
+            "link": {
+              "link_type": "Any"
+            }
+          },
+          {
+            "title": null,
+            "text": null,
+            "image": {
+              "dimensions": {
+                "width": 800,
+                "height": 1024
+              },
+              "alt": null,
+              "copyright": null,
+              "url": "https://images.prismic.io/african-art-gallery/aNPUHZ5xUNkB1Ddl_ibeji-4.jpg?auto=format,compress",
+              "id": "aNPUHZ5xUNkB1Ddl",
+              "edit": {
+                "x": 0,
+                "y": 0,
+                "zoom": 1,
+                "background": "transparent"
+              }
+            },
+            "link": {
+              "link_type": "Any"
+            }
+          },
+          {
+            "title": null,
+            "text": null,
+            "image": {
+              "dimensions": {
+                "width": 800,
+                "height": 1024
+              },
+              "alt": null,
+              "copyright": null,
+              "url": "https://images.prismic.io/african-art-gallery/aNPUHp5xUNkB1Ddm_ibeji-5.jpg?auto=format,compress",
+              "id": "aNPUHp5xUNkB1Ddm",
+              "edit": {
+                "x": 0,
+                "y": 0,
+                "zoom": 1,
+                "background": "transparent"
+              }
+            },
+            "link": {
+              "link_type": "Any"
+            }
+          },
+          {
+            "title": null,
+            "text": null,
+            "image": {
+              "dimensions": {
+                "width": 800,
+                "height": 1024
+              },
+              "alt": null,
+              "copyright": null,
+              "url": "https://images.prismic.io/african-art-gallery/aNPUH55xUNkB1Ddn_ibeji-6.jpg?auto=format,compress",
+              "id": "aNPUH55xUNkB1Ddn",
+              "edit": {
+                "x": 0,
+                "y": 0,
+                "zoom": 1,
+                "background": "transparent"
+              }
+            },
+            "link": {
+              "link_type": "Any"
+            }
+          },
+          {
+            "title": null,
+            "text": null,
+            "image": {
+              "dimensions": {
+                "width": 800,
+                "height": 1024
+              },
+              "alt": null,
+              "copyright": null,
+              "url": "https://images.prismic.io/african-art-gallery/aNPUIJ5xUNkB1Ddo_ibeji-7.jpg?auto=format,compress",
+              "id": "aNPUIJ5xUNkB1Ddo",
+              "edit": {
+                "x": 0,
+                "y": 0,
+                "zoom": 1,
+                "background": "transparent"
+              }
+            },
+            "link": {
+              "link_type": "Any"
+            }
+          },
+          {
+            "title": null,
+            "text": null,
+            "image": {
+              "dimensions": {
+                "width": 800,
+                "height": 1024
+              },
+              "alt": null,
+              "copyright": null,
+              "url": "https://images.prismic.io/african-art-gallery/aNPUIZ5xUNkB1Ddq_ibeji-8.jpg?auto=format,compress",
+              "id": "aNPUIZ5xUNkB1Ddq",
+              "edit": {
+                "x": 0,
+                "y": 0,
+                "zoom": 1,
+                "background": "transparent"
+              }
+            },
+            "link": {
+              "link_type": "Any"
+            }
+          },
+          {
+            "title": null,
+            "text": null,
+            "image": {
+              "dimensions": {
+                "width": 800,
+                "height": 1024
+              },
+              "alt": null,
+              "copyright": null,
+              "url": "https://images.prismic.io/african-art-gallery/aNPUIp5xUNkB1Ddr_ibeji-9.jpg?auto=format,compress",
+              "id": "aNPUIp5xUNkB1Ddr",
+              "edit": {
+                "x": 0,
+                "y": 0,
+                "zoom": 1,
+                "background": "transparent"
+              }
+            },
+            "link": {
+              "link_type": "Any"
+            }
+          },
+          {
+            "title": null,
+            "text": null,
+            "image": {
+              "dimensions": {
+                "width": 800,
+                "height": 1024
+              },
+              "alt": null,
+              "copyright": null,
+              "url": "https://images.prismic.io/african-art-gallery/aNPUI55xUNkB1Dds_ibeji-10.jpg?auto=format,compress",
+              "id": "aNPUI55xUNkB1Dds",
+              "edit": {
+                "x": 0,
+                "y": 0,
+                "zoom": 1,
+                "background": "transparent"
+              }
+            },
+            "link": {
+              "link_type": "Any"
+            }
+          },
+          {
+            "title": null,
+            "text": null,
+            "image": {
+              "dimensions": {
+                "width": 800,
+                "height": 1024
+              },
+              "alt": null,
+              "copyright": null,
+              "url": "https://images.prismic.io/african-art-gallery/aNPUJJ5xUNkB1Ddt_ibeji-11.jpg?auto=format,compress",
+              "id": "aNPUJJ5xUNkB1Ddt",
+              "edit": {
+                "x": 0,
+                "y": 0,
+                "zoom": 1,
+                "background": "transparent"
+              }
+            },
+            "link": {
+              "link_type": "Any"
+            }
+          },
+          {
+            "title": null,
+            "text": null,
+            "image": {
+              "dimensions": {
+                "width": 800,
+                "height": 1024
+              },
+              "alt": null,
+              "copyright": null,
+              "url": "https://images.prismic.io/african-art-gallery/aNPUJZ5xUNkB1Ddu_ibeji-12.jpg?auto=format,compress",
+              "id": "aNPUJZ5xUNkB1Ddu",
+              "edit": {
+                "x": 0,
+                "y": 0,
+                "zoom": 1,
+                "background": "transparent"
+              }
+            },
+            "link": {
+              "link_type": "Any"
+            }
+          },
+          {
+            "title": null,
+            "text": null,
+            "image": {
+              "dimensions": {
+                "width": 800,
+                "height": 1024
+              },
+              "alt": null,
+              "copyright": null,
+              "url": "https://images.prismic.io/african-art-gallery/aNPUJp5xUNkB1Ddw_ibeji-13.jpg?auto=format,compress",
+              "id": "aNPUJp5xUNkB1Ddw",
+              "edit": {
+                "x": 0,
+                "y": 0,
+                "zoom": 1,
+                "background": "transparent"
+              }
+            },
+            "link": {
+              "link_type": "Any"
+            }
+          },
+          {
+            "title": null,
+            "text": null,
+            "image": {
+              "dimensions": {
+                "width": 800,
+                "height": 1024
+              },
+              "alt": null,
+              "copyright": null,
+              "url": "https://images.prismic.io/african-art-gallery/aNPUJ55xUNkB1Ddx_ibeji-14.jpg?auto=format,compress",
+              "id": "aNPUJ55xUNkB1Ddx",
+              "edit": {
+                "x": 0,
+                "y": 0,
+                "zoom": 1,
+                "background": "transparent"
+              }
+            },
+            "link": {
+              "link_type": "Any"
+            }
+          },
+          {
+            "title": null,
+            "text": null,
+            "image": {
+              "dimensions": {
+                "width": 800,
+                "height": 1024
+              },
+              "alt": null,
+              "copyright": null,
+              "url": "https://images.prismic.io/african-art-gallery/aNPUKJ5xUNkB1Ddy_ibeji-15.jpg?auto=format,compress",
+              "id": "aNPUKJ5xUNkB1Ddy",
+              "edit": {
+                "x": 0,
+                "y": 0,
+                "zoom": 1,
+                "background": "transparent"
+              }
+            },
+            "link": {
+              "link_type": "Any"
+            }
+          },
+          {
+            "title": null,
+            "text": null,
+            "image": {
+              "dimensions": {
+                "width": 800,
+                "height": 1024
+              },
+              "alt": null,
+              "copyright": null,
+              "url": "https://images.prismic.io/african-art-gallery/aNPUKZ5xUNkB1Dd0_ibeji-16.jpg?auto=format,compress",
+              "id": "aNPUKZ5xUNkB1Dd0",
+              "edit": {
+                "x": 0,
+                "y": 0,
+                "zoom": 1,
+                "background": "transparent"
+              }
+            },
+            "link": {
+              "link_type": "Any"
+            }
+          },
+          {
+            "title": null,
+            "text": null,
+            "image": {
+              "dimensions": {
+                "width": 800,
+                "height": 1024
+              },
+              "alt": null,
+              "copyright": null,
+              "url": "https://images.prismic.io/african-art-gallery/aNPUKp5xUNkB1Dd1_ibeji-17.jpg?auto=format,compress",
+              "id": "aNPUKp5xUNkB1Dd1",
+              "edit": {
+                "x": 0,
+                "y": 0,
+                "zoom": 1,
+                "background": "transparent"
+              }
+            },
+            "link": {
+              "link_type": "Any"
+            }
+          },
+          {
+            "title": null,
+            "text": null,
+            "image": {
+              "dimensions": {
+                "width": 800,
+                "height": 1024
+              },
+              "alt": null,
+              "copyright": null,
+              "url": "https://images.prismic.io/african-art-gallery/aNPUK55xUNkB1Dd3_ibeji-18.jpg?auto=format,compress",
+              "id": "aNPUK55xUNkB1Dd3",
+              "edit": {
+                "x": 0,
+                "y": 0,
+                "zoom": 1,
+                "background": "transparent"
+              }
+            },
+            "link": {
+              "link_type": "Any"
+            }
+          },
+          {
+            "title": null,
+            "text": null,
+            "image": {
+              "dimensions": {
+                "width": 800,
+                "height": 1024
+              },
+              "alt": null,
+              "copyright": null,
+              "url": "https://images.prismic.io/african-art-gallery/aNPULJ5xUNkB1Dd4_ibeji-19.jpg?auto=format,compress",
+              "id": "aNPULJ5xUNkB1Dd4",
+              "edit": {
+                "x": 0,
+                "y": 0,
+                "zoom": 1,
+                "background": "transparent"
+              }
+            },
+            "link": {
+              "link_type": "Any"
+            }
+          },
+          {
+            "title": null,
+            "text": null,
+            "image": {
+              "dimensions": {
+                "width": 800,
+                "height": 1024
+              },
+              "alt": null,
+              "copyright": null,
+              "url": "https://images.prismic.io/african-art-gallery/aNPULZ5xUNkB1Dd5_ibeji-20.jpg?auto=format,compress",
+              "id": "aNPULZ5xUNkB1Dd5",
+              "edit": {
+                "x": 0,
+                "y": 0,
+                "zoom": 1,
+                "background": "transparent"
+              }
+            },
+            "link": {
+              "link_type": "Any"
+            }
+          }
+        ],
+        "link": {
+          "id": "aLmKHREAACIAObh5",
+          "type": "page",
+          "tags": [],
+          "lang": "en-us",
+          "slug": "gallery",
+          "first_publication_date": "2025-09-04T12:46:28+0000",
+          "last_publication_date": "2026-05-15T14:28:37+0000",
+          "uid": "gallery",
+          "link_type": "Document",
+          "key": "38923598-5a3e-4684-a62b-9a8e075cacc7",
+          "isBroken": false,
+          "text": "Wszystkie eksponaty"
+        }
+      },
+      "id": "gallery$5c922003-abdf-4f5a-bffc-5db191313bd1",
+      "slice_type": "gallery",
+      "slice_label": null
+    }
+  ],
+  "meta_title": null,
+  "meta_description": null,
+  "meta_image": {}
+}

@@ -1,0 +1,76 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "text": "African Art Gallery",
+      "spans": [],
+      "direction": "ltr"
+    }
+  ],
+  "parent": {
+    "link_type": "Document"
+  },
+  "slices": [
+    {
+      "variation": "default",
+      "version": "sktwi1xtmkfgx8626",
+      "items": [],
+      "primary": {
+        "title": "Masks Speak \nin a Whisper",
+        "text": null,
+        "buttonLink": {
+          "id": "aLmKHREAACIAObh5",
+          "type": "page",
+          "tags": [],
+          "lang": "en-us",
+          "slug": "gallery",
+          "first_publication_date": "2025-09-04T12:46:28+0000",
+          "last_publication_date": "2026-05-15T14:28:37+0000",
+          "uid": "gallery",
+          "link_type": "Document",
+          "key": "a22da765-4b08-4295-ab89-65e35022c507",
+          "isBroken": false,
+          "text": "See more"
+        },
+        "backgroundImage": {
+          "dimensions": {
+            "width": 2360,
+            "height": 1272
+          },
+          "alt": "Masks Speak in a Whisper",
+          "copyright": null,
+          "url": "https://images.prismic.io/african-art-gallery/aQiGDbpReVYa38XF_slider-1.jpg?auto=format,compress",
+          "id": "aQiGDbpReVYa38XF",
+          "edit": {
+            "x": 0,
+            "y": 0,
+            "zoom": 1,
+            "background": "transparent"
+          }
+        },
+        "photos": []
+      },
+      "id": "hero$17968622-15fd-4d8e-9ff5-9098bd019989",
+      "slice_type": "hero",
+      "slice_label": null
+    }
+  ],
+  "meta_title": "African Art Gallery",
+  "meta_description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede asdf.",
+  "meta_image": {
+    "dimensions": {
+      "width": 2400,
+      "height": 1260
+    },
+    "alt": null,
+    "copyright": null,
+    "url": "https://images.prismic.io/marketing-24/ZkdcuSol0Zci9PlS_subway.jpg?auto=format%2Ccompress&rect=0%2C442%2C5415%2C2843&w=2400&h=1260",
+    "id": "ZkdcuSol0Zci9PlS",
+    "edit": {
+      "x": 0,
+      "y": 442,
+      "zoom": 1,
+      "background": "transparent"
+    }
+  }
+}

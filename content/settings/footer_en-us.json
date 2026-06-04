@@ -1,0 +1,68 @@
+{
+  "slices": [
+    {
+      "variation": "default",
+      "version": "initial",
+      "items": [],
+      "primary": {
+        "phone": [
+          {
+            "title": "Phone",
+            "text": "+48 511 007 009"
+          }
+        ],
+        "email": [
+          {
+            "title": "Email",
+            "text": "info@africanart.gallery"
+          }
+        ],
+        "address": [
+          {
+            "title": "Address",
+            "address1": "ul. Emilii Plater 30",
+            "address2": "00-698 Warsaw, Poland"
+          }
+        ],
+        "socialMedia": [
+          {
+            "title": "Social media",
+            "link": [
+              {
+                "link_type": "Web",
+                "key": "08b906c4-0b29-40b3-9d88-23e5a03ad729",
+                "url": "https://www.facebook.com/africangalleryart",
+                "target": "_blank",
+                "text": "Facebook"
+              },
+              {
+                "link_type": "Web",
+                "key": "112070ec-475b-4e3e-9c98-dc498c33389f",
+                "url": "https://www.instagram.com/africangalleryart",
+                "target": "_blank",
+                "text": "Instagram"
+              },
+              {
+                "link_type": "Web",
+                "key": "65c90434-3a83-4138-b2a6-d5e59176f84b",
+                "url": "https://www.youtube.com/@TheAfricanArtGallery",
+                "target": "_blank",
+                "text": "Youtube"
+              }
+            ]
+          }
+        ],
+        "openingHours": [
+          {
+            "title": "Opening hours",
+            "hours1": "Temporarily by phone",
+            "hours2": "reservation only"
+          }
+        ]
+      },
+      "id": "footer$5bfc6a5e-95ae-4324-a7a4-3d61e6095689",
+      "slice_type": "footer",
+      "slice_label": null
+    }
+  ]
+}

@@ -7,8 +7,25 @@ import Image from 'next/image';
 type NavItem = { label: string; slug: string };
 type SocialItem = { label: string; url: string; iconAlt: string };
 
-export default function Header({ nav, social }: { nav: NavItem[]; social: SocialItem[] }) {
+export default function Header({
+  nav,
+  social,
+  lang = 'pl',
+}: {
+  nav: NavItem[];
+  social: SocialItem[];
+  lang?: 'pl' | 'en-us';
+}) {
   const [open, setOpen] = useState(false);
+  const isEn = lang === 'en-us';
+  const homeHref = isEn ? '/en' : '/';
+  const navHref = (slug: string) => (isEn ? `/en/${slug}` : `/${slug}`);
+  const langLabel = isEn ? 'ENGLISH' : 'POLSKI';
+  const otherLangHref = isEn ? '/' : '/en';
+  const otherLangLabel = isEn ? 'Polski' : 'English';
+  const searchPlaceholder = isEn ? 'Search' : '';
+  const menuLabelOpen = isEn ? 'Open menu' : 'Otwórz menu';
+  const menuLabelClose = isEn ? 'Close menu' : 'Zamknij menu';
 
   // Zablokuj scroll body kiedy drawer otwarty
   useEffect(() => {
@@ -32,7 +49,7 @@ export default function Header({ nav, social }: { nav: NavItem[]; social: Social
   return (
     <header className="w-full border-b border-gray-300 bg-aag-beige relative z-40">
       <div className="max-w-8xl mx-auto px-4 lg:px-12 py-5 flex items-center gap-4 lg:gap-8">
-        <Link href="/" className="flex-shrink-0" onClick={() => setOpen(false)}>
+        <Link href={homeHref} className="flex-shrink-0" onClick={() => setOpen(false)}>
           <Image
             src="/assets/logo.svg"
             alt="African Art Gallery"
@@ -46,7 +63,7 @@ export default function Header({ nav, social }: { nav: NavItem[]; social: Social
         {/* Desktop nav */}
         <nav className="hidden lg:flex items-center gap-8 ml-auto">
           {nav.map(item => (
-            <Link key={item.slug} href={`/${item.slug}`} className="nav-link">
+            <Link key={item.slug} href={navHref(item.slug)} className="nav-link">
               {item.label}
             </Link>
           ))}
@@ -80,15 +97,17 @@ export default function Header({ nav, social }: { nav: NavItem[]; social: Social
           })}
         </div>
 
-        <div className="hidden lg:flex items-center gap-1 ml-6 text-sm uppercase tracking-wider">
-          <span>Polski</span>
-          <Image src="/assets/down-arrow-icon.svg" alt="" width={10} height={10} style={{ height: 'auto' }} />
+        <div className="hidden lg:flex items-center gap-3 ml-6 text-sm uppercase tracking-wider">
+          <span className="opacity-80">{langLabel}</span>
+          <Link href={otherLangHref} className="text-xs hover:underline opacity-70 hover:opacity-100">
+            {otherLangLabel}
+          </Link>
         </div>
 
         {/* Mobile hamburger */}
         <button
           onClick={() => setOpen(v => !v)}
-          aria-label={open ? 'Zamknij menu' : 'Otwórz menu'}
+          aria-label={open ? menuLabelClose : menuLabelOpen}
           aria-expanded={open}
           className="lg:hidden ml-auto p-2 flex flex-col justify-center items-center gap-1.5 w-10 h-10"
         >
@@ -109,7 +128,7 @@ export default function Header({ nav, social }: { nav: NavItem[]; social: Social
           {nav.map(item => (
             <Link
               key={item.slug}
-              href={`/${item.slug}`}
+              href={navHref(item.slug)}
               onClick={() => setOpen(false)}
               className="serif italic text-3xl py-4 border-b border-gray-300"
             >
@@ -134,9 +153,11 @@ export default function Header({ nav, social }: { nav: NavItem[]; social: Social
             })}
           </div>
 
-          <div className="mt-6 text-sm uppercase tracking-wider flex items-center gap-2">
-            <span>Polski</span>
-            <Image src="/assets/down-arrow-icon.svg" alt="" width={10} height={10} style={{ height: 'auto' }} />
+          <div className="mt-6 text-sm uppercase tracking-wider flex items-center gap-3">
+            <span className="opacity-80">{langLabel}</span>
+            <Link href={otherLangHref} onClick={() => setOpen(false)} className="text-xs underline opacity-80">
+              {otherLangLabel}
+            </Link>
           </div>
         </div>
       </div>

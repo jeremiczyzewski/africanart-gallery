@@ -1,7 +1,5 @@
 import type { Metadata } from 'next';
 import { Cormorant_Garamond, Inter } from 'next/font/google';
-import HeaderServer from '@/components/HeaderServer';
-import Footer from '@/components/Footer';
 import './globals.css';
 
 const serif = Cormorant_Garamond({
@@ -28,11 +26,7 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="pl" className={`${serif.variable} ${sans.variable}`}>
-      <body className="min-h-screen flex flex-col">
-        <HeaderServer />
-        <main className="flex-1">{children}</main>
-        <Footer />
-      </body>
+      <body className="min-h-screen flex flex-col">{children}</body>
     </html>
   );
 }

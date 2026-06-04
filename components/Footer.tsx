@@ -1,7 +1,7 @@
 import { getFooter } from '@/lib/content';
 
-export default function Footer() {
-  const f = getFooter('pl');
+export default function Footer({ lang = 'pl' }: { lang?: 'pl' | 'en-us' }) {
+  const f = getFooter(lang);
   if (!f) return null;
 
   return (
